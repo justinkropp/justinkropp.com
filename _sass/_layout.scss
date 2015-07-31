@@ -13,3 +13,16 @@
 footer {
   margin-bottom: 2rem;
 }
+
+.home {
+	display: flex;
+	height: 100%;
+
+	p {
+		margin: auto;
+		padding: 0;
+		font-size: 1.25rem;
+		line-height: 1;
+		color: rgba(0, 0, 0, 1.0);
+	}
+}
