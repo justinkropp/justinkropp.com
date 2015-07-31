@@ -10,13 +10,14 @@
 
 html,
 body {
+  height: 100%;
   margin: 0;
   padding: 0;
 }
 
 @font-face {
   font-family: 'FoundersGrotesk';
-  src:  url('FoundersGroteskWeb-Regular.eot') format('eot'),
+  src:  url('FoundersGroteskWeb-Regular.eot') format('embedded-opentype'),
         url('FoundersGroteskWeb-Regular.woff') format('woff');
 }
 
