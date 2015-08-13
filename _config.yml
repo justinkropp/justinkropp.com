@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Justin Kropp
+tagline:             Designer
+url:                 http://justinkropp.com
 paginate:            1
 baseurl:             ""
 
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Justin Kropp
+  url:               https://justinkropp.com
+  email:             justinkropp@gmail.com
 
 # Custom vars
 version:             2.0.0
