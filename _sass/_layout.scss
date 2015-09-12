@@ -35,7 +35,6 @@ p a {
 
 .home {
 	height: 100%;
-<<<<<<< HEAD
 	border: 1.5em solid $white;
 	@media (max-width: 320px) {
 		// dat mobile shit goes here
@@ -467,9 +466,6 @@ p a {
 				}
 			}
 		}
-=======
-	background: rgba(0, 0, 0, 1.0);
-	border: 10px solid rgba(255, 255, 255, 1.0);
 
 	p {
 		margin: auto;
@@ -477,6 +473,7 @@ p a {
 		font-size: 1.25rem;
 		line-height: 1;
 		color: rgba(255, 255, 255, .90);
->>>>>>> a77580f56d1072b34152f4c87d4e17e67b0c1796
 	}
+}
+
 }
