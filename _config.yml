@@ -21,11 +21,8 @@ sass:
 # About/contact
 author:
   name:              Justin Kropp
-<<<<<<< HEAD
   url:               https://justinkropp.com/about
-=======
   url:               https://justinkropp.com
->>>>>>> a77580f56d1072b34152f4c87d4e17e67b0c1796
   email:             justinkropp@gmail.com
 
 # Custom vars
