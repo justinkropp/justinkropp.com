@@ -48,7 +48,7 @@ p a {
 		height: 100%;
 
 		p {
-			max-width: 36em;
+			max-width: 32em;
 			margin: auto;
 			// font-family: 'FoundersGroteskBold';
 			font-size: 1.25rem;
@@ -203,6 +203,23 @@ p a {
 					font-size: 1.1rem;
 					line-height: 1.5;
 					color: $gray;
+				}
+
+				p sup a {
+					font-size: .8rem;
+					padding: 0 2px;
+				}
+
+				li a {
+					text-decoration: none;
+					color: $black;
+					border-bottom: 2px solid rgba($black, 0.1);
+					-webkit-transition: all .1s ease;
+
+					&:hover {
+						background: rgba($black, 0.05);
+						text-decoration: none;
+					}
 				}
 
 				dl {

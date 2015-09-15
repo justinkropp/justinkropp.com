@@ -1,18 +1,20 @@
 ---
 layout: post
 title: Rob Giampietro
-excerpt: An interview with the incredibly smart designer and now head of Google's Material Design Lab in NYC, Rob Giampietro.
-published: false
+excerpt: A resurrected interview with the incredibly smart designer, writer, and now Creative Lead for Google Design NYC.
 ---
 
 
-**Hi Rob. Can you give our viewers a bit of history about yourself (where you went to school, where you’ve worked, and where you are now**)?
+![Rob Giampietro](/assets/rob-giampietro.jpg)
+*This interview was originally published on the now defunct oneskinnyj.com[^fn-sample_footnote] site. I’m proud of this interview and am grateful to Rob for being so generous with his time and answers.*
 
-I grew up in Minneapolis listening to a lot of jazz on ECM and going to the Walker Art Center whenever I could. Minneapolis, ECM, and the Walker’s design department and bookstore were all huge influences on me. I got a B.A. in Art from Yale and went to work at Winterhouse. Bill Drenttel and Jessica Helfand were very giving and had unique practice that allowed me space to develop as a designer — it was like a kind of grad school for me. When I left to go to New York I worked at the New York Times Magazine for almost a year — a great introduction to New York — before I joined Michael Bierut’s team at Pentagram as a freelancer, which was also an amazing learning experience. When my Winterhouse colleague Kevin Smith arrived in New York we began freelancing together and launched the studio Giampietro+Smith, which we ran for five years. I joined Project Projects as a principal in 2010. Also in the mix I did a lot of design writing, was vice president of AIGA/NY, did a lot of teaching at Parsons, RISD, and SVA, and started a website of design writing and resources called Lined & Unlined.
+**Hi Rob. Can you give our viewers a bit of history about yourself (where you went to school, where you’ve worked, and where you are now)?**
+
+I grew up in Minneapolis listening to a lot of jazz on ECM and going to the Walker Art Center whenever I could. Minneapolis, ECM, and the Walker’s design department and bookstore were all huge influences on me. I got a B.A. in Art from Yale and went to work at [Winterhouse](http://www.aiga.org/medalists-william-drenttel-and-jessica-helfand/). Bill Drenttel and Jessica Helfand were very giving and had unique practice that allowed me space to develop as a designer — it was like a kind of grad school for me. When I left to go to New York I worked at the New York Times Magazine for almost a year — a great introduction to New York — before I joined Michael Bierut’s team at Pentagram as a freelancer, which was also an amazing learning experience. When my Winterhouse colleague Kevin Smith arrived in New York we began freelancing together and launched the studio Giampietro+Smith, which we ran for five years. I joined [Project Projects](http://www.projectprojects.com/) as a principal in 2010. Also in the mix I did a lot of design writing, was vice president of AIGA/NY, did a lot of teaching at Parsons, RISD, and SVA, and started a website of design writing and resources called [Lined & Unlined](http://www.linedandunlined.com/).
 
 **You’ve had quite a distinguished career, working at places like Winterhouse, Pentagram and now Project Projects. Were those positions ones that you actively sought after, or did any of them more or less fall into place naturally—one leading to the next?**
 
-I’m thankful for the opportunities I’ve had. Any career is a mix of skill, luck, and persistence, and I’ve relied on all three. A few ideas have served as helpful guides: 1) actively engage people and places that are interesting to me, 2) cultivate and expand my interests not just as a designer but as a person in the world, and 3) be open to whatever opportunities presented themselves without predetermining their outcomes too much. When I first moved to the city, I showed my portfolio to Abbott Miller, whose work I’d long admired. I was hoping for a job working for him, but he surprised me by saying, “Have you ever thought about teaching? You’d be great.” He introduced me to Charles Nix at Parsons and I taught there for the next 8 years. I was 23.
+I’m thankful for the opportunities I’ve had. Any career is a mix of skill, luck, and persistence, and I’ve relied on all three. A few ideas have served as helpful guides: 1) actively engage people and places that are interesting to me, 2) cultivate and expand my interests not just as a designer but as a person in the world, and 3) be open to whatever opportunities presented themselves without predetermining their outcomes too much. When I first moved to the city, I showed my portfolio to [Abbott Miller](http://www.pentagram.com/partners/#/15/), whose work I’d long admired. I was hoping for a job working for him, but he surprised me by saying, “Have you ever thought about teaching? You’d be great.” He introduced me to [Charles Nix](https://www.tdc.org/officers/charles-nix/) at Parsons and I taught there for the next 8 years. I was 23.
 
 **Why graphic design? I mean, why not something else? What opportunities does graphic design provide that you feel so compelled to engage in this profession?**
 
@@ -24,11 +26,11 @@ Writing plays many roles. It lets me reflect on practice much the same way teach
 
 **How did you become involved with David Reinfurt, Stuart Bailey, and Dot Dot Dot?**
 
-Paul Elliman, whose writing and typographic work I admired before I arrived at Yale, is probably the common link. David was a the T.A. for a class I took with Paul, and it was also during that semester that Stuart came to town and Paul suggested we meet for coffee. We all stayed in touch. I mailed away for the first Dot Dot Dot and it came with a kind note from Stuart inviting me to contribute to a future issue. They’re my favorite people to write for, everything I’ve done with them is something I’m proud of. They create a very special environment for ideas to develop.
+Paul Elliman, whose writing and typographic work I admired before I arrived at Yale, is probably the common link. David was a the T.A. for a class I took with Paul, and it was also during that semester that Stuart came to town and Paul suggested we meet for coffee. We all stayed in touch. I mailed away for the first [Dot Dot Dot](http://www.dot-dot-dot.us/) and it came with a kind note from Stuart inviting me to contribute to a future issue. They’re my favorite people to write for, everything I’ve done with them is something I’m proud of. They create a very special environment for ideas to develop.
 
 **For many designers—and I’d imagine for many other professionals—the act of writing is approached with caution, even fear. Can you talk a little bit about your process for writing (how you approach it)?**
 
-Like anything, you get better at it the more you do it. This is why the blog and doing shorter written pieces is important. Every piece I’ve done has developed a little differently, but just like design it works best for me when there’s a collaboration — in this case, between myself and the editor of the piece. This is why David and Stuart are so important in the writing I’ve done for Dot Dot Dot. We discuss different approaches, references, send things back-and-forth over a few weeks or even months. Then at a certain point it’s time to start writing. Often I have a lot of fragments, sentences or phrasings I like. I also try to have a pool of quotes or quick section outlines floating around in different text windows. The writing almost starts to get “laid out” like a piece of design in this way. I think confidence also builds the more you write, which helps with the fear you have when you start a new piece. I place a huge amount of trust in my ear, the way the language sounds. I’ve rewritten pieces that were fine language-wise but didn’t sound good to my ear — that’s the poet in me I guess. I wrote a Dot Dot Dot piece about the 100th Chapter of Robert Musil’s book The Man Without Qualities, and I knew I wanted the piece to end with the biographical image of Musil getting kicked out of the library for smoking, a habit which lead to his early death and left the novel unfinished. I must have rewritten the last paragraph 60 times before I finally got it to sound right.
+Like anything, you get better at it the more you do it. This is why the blog and doing shorter written pieces is important. Every piece I’ve done has developed a little differently, but just like design it works best for me when there’s a collaboration — in this case, between myself and the editor of the piece. This is why David and Stuart are so important in the writing I’ve done for Dot Dot Dot. We discuss different approaches, references, send things back-and-forth over a few weeks or even months. Then at a certain point it’s time to start writing. Often I have a lot of fragments, sentences or phrasings I like. I also try to have a pool of quotes or quick section outlines floating around in different text windows. The writing almost starts to get “laid out” like a piece of design in this way. I think confidence also builds the more you write, which helps with the fear you have when you start a new piece. I place a huge amount of trust in my ear, the way the language sounds. I’ve rewritten pieces that were fine language-wise but didn’t sound good to my ear — that’s the poet in me I guess. I wrote a Dot Dot Dot piece about the 100th Chapter of Robert Musil’s book [The Man Without Qualities](http://amzn.to/1MjG19R), and I knew I wanted the piece to end with the biographical image of Musil getting kicked out of the library for smoking, a habit which lead to his early death and left the novel unfinished. I must have rewritten the last paragraph 60 times before I finally got it to sound right.
 
 **How do words and language influence your design work? At any point does semiotic theory become part of the framework for developing a concept? Further, if semiotic theory does play a role, do you find yourself subscribing to any particular tradition—Saussurean or Peircean?**
 
@@ -54,11 +56,11 @@ At first I think there was an appeal in the idea that the arts and architecture 
 
 These have both nothing and everything to do with design, which is why designers might enjoy them:
 
-1. Mark McGurl’s The Program Era
-2. J.L. Austin’s How to Do Things with Words
-3. James Gleick’s The Information
-4. Lucien Dallenbach’s The Mirror in the Text
-5. Marcel Benabou’s Why I Have Not Written Any of My Books
+1. Mark McGurl’s [The Program Era](http://amzn.to/1MjCEji)
+2. J.L. Austin’s [How to Do Things with Words](http://amzn.to/1FEEaEL)
+3. James Gleick’s [The Information](http://amzn.to/1MjCMPN)
+4. Lucien Dallenbach’s [The Mirror in the Text](http://amzn.to/1FEEfsa)
+5. Marcel Benabou’s [Why I Have Not Written Any of My Books](http://amzn.to/1FEEh3f)
 
 **For those designers who are walking down that path to starting their own studio: what advice would you like to impart to them?**
 
@@ -74,3 +76,6 @@ I thought it would be fun to come up with 10 of these:
 8. Knowing more designers doesn’t necessarily translate into having good clients: spend your development time wisely.
 9. Be known for something: it helps.
 10. You will never work harder than when you’re building something: find balance. Sometimes the best way to solve a creative problem is to take a vacation or read a book.
+
+
+[^fn-sample_footnote]: oneskinnyj.com was a moniker and online repository I used for several years. It housed the aforementioned interview series, which I will be resurrecting here.
