@@ -35,9 +35,8 @@ p a {
 
 .home {
 	height: 100%;
-	border: 1.5em solid $white;
+	background: rgba($black, 0.85);
 	@media (max-width: 320px) {
-		// dat mobile shit goes here
   	}
 
 	.container {
@@ -47,17 +46,8 @@ p a {
 		flex-direction: column;
 		height: 100%;
 
-		p {
-			max-width: 32em;
-			margin: auto;
-			// font-family: 'FoundersGroteskBold';
-			font-size: 1.25rem;
-			line-height: 1.5;
-			color: $dk-gray;
-		}
-
 		nav {
-			padding: 2em 0;
+			margin: auto;
 
 			ul {
 				list-style: none;
@@ -72,12 +62,12 @@ p a {
 					text-align: center;
 
 					a {
-						color: $gray;
+						color: rgba($white, 0.60);
 						text-decoration: none;
 						-webkit-transition: all .1s ease;
 
 						&:hover {
-							color: $dk-gray;
+							color: rgba($white, 0.99);
 						}
 					}
 				}
