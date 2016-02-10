@@ -36,41 +36,78 @@ p a {
 .home {
 	height: 100%;
 	background: rgba($black, 0.85);
-	@media (max-width: 320px) {
-  	}
 
 	.container {
 		display: -webkit-flex;
-  		display: flex;
+  	display: flex;
 		-webkit-flex-direction: column;
 		flex-direction: column;
+		align-content: stretch;
 		height: 100%;
+		padding: 5em;
+		@media (max-width: 320px) {
+			padding: 2em;
+		}
 
-		nav {
-			margin: auto;
+		header {
+			flex: 1;
+			@media (max-width: 320px) {
+				flex: 1;
+			}
 
-			ul {
-				list-style: none;
-				margin: 0 auto;
-				padding: 0;
-				text-align: center;
+			h1 {
+				float: left;
+				margin: 0;
+				font-size: 1.1rem;
+				font-weight: 400;
+				color: rgba($white, 0.8);
+				@media (max-width: 320px) {
+					float: none;
+					display: block;
+				}
+			}
 
-				li {
-					display: inline-block;
-					margin: 0 .5rem;
-					font-size: 1.1rem;
-					text-align: center;
+			nav {
+				float: right;
+				@media (max-width: 320px) {
+					float: none;
+					display: block;
+				}
 
-					a {
-						color: rgba($white, 0.60);
-						text-decoration: none;
-						-webkit-transition: all .1s ease;
+				ul {
+					list-style: none;
+					margin: 1em 0 0 0;
+					padding: 0;
 
-						&:hover {
-							color: rgba($white, 0.99);
+					li {
+						display: inline-block;
+						margin: 0 0 0 1em;
+						font-size: 1.1rem;
+						@media (max-width: 320px) {
+							margin: 0 1em 0 0;
+						}
+
+						a {
+							color: rgba($white, 0.5);
+							text-decoration: none;
+							-webkit-transition: all .1s ease;
+
+							&:hover {
+								color: rgba($white, 1.0);
+							}
 						}
 					}
 				}
+			}
+		}
+		article {
+
+			p {
+				max-width: 35em;
+				margin: 0;
+				font-size: 1.1rem;
+				line-height: 1.5;
+				color: rgba($white, 0.8);
 			}
 		}
 	}
@@ -384,18 +421,12 @@ p a {
 				margin: 2em 0;
 
 				a {
-					display: -webkit-flex;
-					display: flex;
-					-webkit-flex-direction: column;
-					flex-direction: column;
-					-webkit-align-items: center;
-					align-items: center;
 					text-decoration: none;
 					-webkit-transition: all .2s ease;
 
 					img {
 						width: 7em;
-						height: auto;
+						// height: 120px;
 						margin: 0 auto 1em auto;
 						background: $lt-gray;
 						border: none;
