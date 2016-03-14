@@ -7,7 +7,6 @@
 p {
 
 	strong {
-		font-family: 'FoundersGroteskBold';
 		color: $dk-gray;
 	}
 }
@@ -35,7 +34,7 @@ p a {
 
 .home {
 	height: 100%;
-	background: rgba($black, 0.85);
+	background: rgba($black, 0.90);
 
 	.container {
 		display: -webkit-flex;
@@ -44,7 +43,7 @@ p a {
 		flex-direction: column;
 		align-content: stretch;
 		height: 100%;
-		padding: 5em;
+		padding: 4em;
 		@media (max-width: 320px) {
 			padding: 2em;
 		}
@@ -58,7 +57,7 @@ p a {
 			h1 {
 				float: left;
 				margin: 0;
-				font-size: 1.1rem;
+				font-size: 1.25rem;
 				font-weight: 400;
 				color: rgba($white, 0.8);
 				@media (max-width: 320px) {
@@ -82,7 +81,7 @@ p a {
 					li {
 						display: inline-block;
 						margin: 0 0 0 1em;
-						font-size: 1.1rem;
+						font-size: 1.25rem;
 						@media (max-width: 320px) {
 							margin: 0 1em 0 0;
 						}
@@ -105,7 +104,7 @@ p a {
 			p {
 				max-width: 35em;
 				margin: 0;
-				font-size: 1.1rem;
+				font-size: 1.25rem;
 				line-height: 1.5;
 				color: rgba($white, 0.8);
 			}
@@ -150,15 +149,11 @@ p a {
 			a {
 				display: block;
 				float: left;
-				width: 25px;
-				height: 25px;
-				text-indent: -999em;
-				background: $dk-gray;
-				border-radius: 50%;
+				color: $gray;
 				-webkit-transition: all .15s ease;
 
 				&:hover {
-					-webkit-transform: scale(1.1);
+					color: $dk-gray;
 				}
 			}
 		}
@@ -202,8 +197,8 @@ p a {
 
 				h2 {
 					margin: 0 0 .5rem 0;
-					font-family: 'FoundersGroteskBold';
-					font-size: 1.5rem;
+					font-size: 2.5rem;
+					font-weight: normal;
 					color: $dk-gray;
 				}
 
@@ -322,7 +317,6 @@ p a {
 					width: 20rem;
 					float: left;
 					margin: 0;
-					font-family: 'FoundersGroteskBold';
 					font-size: 1.1rem;
 					line-height: 1.5;
 					font-weight: 400;
@@ -372,7 +366,6 @@ p a {
 
 				h2 {
 					margin: 0;
-					font-family: 'FoundersGroteskBold';
 					font-size: 1.1rem;
 					color: $dk-gray;
 					line-height: 1.5;

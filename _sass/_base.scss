@@ -18,19 +18,19 @@ body {
 }
 
 @font-face {
-  font-family: 'FoundersGrotesk';
-  src:  url('FoundersGroteskWeb-Regular.eot') format('embedded-opentype'),
-		url('FoundersGroteskWeb-Regular.woff') format('woff');
+  font-family: 'ScalaSans';
+  src:  url('ScalaSansWebPro.eot') format('embedded-opentype'),
+		url('ScalaSansWebPro.woff') format('woff');
 }
 
 @font-face {
-  font-family: 'FoundersGroteskBold';
-  src:  url('FoundersGroteskWeb-Bold.eot') format('embedded-opentype'),
-		url('FoundersGroteskWeb-Bold.woff') format('woff');
+  font-family: 'ScalaSansSC';
+  src:  url('ScalaSansScWebPro.eot') format('embedded-opentype'),
+		url('ScalaSansScWebPro.woff') format('woff');
 }
 
 html {
-  font-family: 'FoundersGrotesk', sans-serif;
+  font-family: 'ScalaSans', sans-serif;
   font-size: 100%;
 }
 
