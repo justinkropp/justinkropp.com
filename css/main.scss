@@ -1,0 +1,146 @@
+
+// font import
+
+// @font-face {
+//   font-family: 'ScalaSans';
+//   src: url('ScalaSansWebPro.eot'); /* IE9 Compat Modes */
+//   src: url('ScalaSansWebPro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+//        url('ScalaSansWebPro.woff') format('woff'), /* Pretty Modern Browsers */
+//      }
+
+@import 'https://fonts.googleapis.com/css?family=Space+Mono:400,700';
+
+html, body {
+    height: 100%;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+::-moz-selection {
+  background: rgba(0, 0, 0, 1.0);
+  color: rgba(255, 255, 255, 1.0);
+  text-shadow: none;
+}
+
+::selection {
+  background: rgba(0, 0, 0, 1.0);
+  color: rgba(255, 255, 255, 1.0);
+  text-shadow: none;
+}
+
+
+// Typography
+
+a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 1.0);
+  font-weight: 700;
+  background: rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.0);
+  transition: all .2s ease;
+  &:hover {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.99);
+  }
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+  font-size: .7rem;
+  font-weight: 400;
+}
+
+p, li {
+  margin: 0;
+  font-size: .7rem;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+// Layout
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Space Mono', monospace;
+  background: rgba(251, 251, 251, 1.0);
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .masthead {
+    width: 100%;
+    height: 120px;
+    // background: rgba(255, 255, 255, 1.0);
+    .banner {
+      max-width: 45em;
+      height: 120px;
+      display: flex;
+      align-items: center;
+      margin: auto;
+      h1 {
+        width: 30%;
+        font-weight: 700;
+        line-height: 1;
+      }
+      h2 {
+        width: 70%;
+        color: rgba(0, 0, 0, 0.5);
+        line-height: 1;
+      }
+    }
+  }
+  .content {
+    max-width: 45em;
+    height: 100%;
+    margin: 4em auto;
+    section {
+      width: 100%;
+      padding: 40px 0;
+      display: flex;
+      flex-direction: row;
+      h2 {
+        width: 30%;
+        font-weight: 700;
+        color: rgba(0, 0, 0, 1.0);
+        }
+      article {
+        width: 70%;
+        p {
+          margin: 0 0 1em 0;
+          line-height: 2;
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+// Media Queries
+
+@media only screen and (min-width: 35em) {
+
+}
