@@ -39,13 +39,13 @@ html {
 
 a {
   text-decoration: none;
-  color: rgba(0, 0, 0, 1.0);
+  color: rgba(255, 255, 255, 1.0);
   font-weight: 700;
-  background: rgba(0, 0, 0, 0.05);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.0);
+  background: rgba(255, 255, 255, 0.10);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.0);
   transition: all .2s ease;
   &:hover {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.99);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.99);
   }
 }
 
@@ -73,7 +73,7 @@ body {
   width: 100%;
   height: 100%;
   font-family: 'Space Mono', monospace;
-  background: rgba(251, 251, 251, 1.0);
+  background: rgba(0, 0, 0, 0.90);
 }
 
 .wrapper {
@@ -96,10 +96,11 @@ body {
         width: 30%;
         font-weight: 700;
         line-height: 1;
+        color: rgba(255, 255, 255, 1.0);
       }
       h2 {
         width: 70%;
-        color: rgba(0, 0, 0, 0.5);
+        color: rgba(255, 255, 255, 1.0);
         line-height: 1;
       }
     }
@@ -116,13 +117,14 @@ body {
       h2 {
         width: 30%;
         font-weight: 700;
-        color: rgba(0, 0, 0, 1.0);
+        color: rgba(255, 255, 255, 1.0);
         }
       article {
         width: 70%;
         p {
           margin: 0 0 1em 0;
           line-height: 2;
+          color: rgba(255, 255, 255, 1.0);
         }
       }
     }
