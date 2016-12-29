@@ -2,12 +2,26 @@
   font-family: 'ScalaSans';
   src: url("/ScalaSansWebPro.eot");
   /* IE9 Compat Modes */
-  src: url("/FScalaSansWebPro.eot?#iefix") format("embedded-opentype"), url("/ScalaSansWebPro.woff") format("woff"); }
+  src: url("/ScalaSansWebPro.eot?#iefix") format("embedded-opentype"), url("/ScalaSansWebPro.woff") format("woff"); }
+
 @font-face {
   font-family: 'ScalaSansSc';
   src: url("/ScalaSansScWebPro.eot");
   /* IE9 Compat Modes */
-  src: url("/FScalaSansScWebPro.eot?#iefix") format("embedded-opentype"), url("/ScalaSansScWebPro.woff") format("woff"); }
+  src: url("/ScalaSansScWebPro.eot?#iefix") format("embedded-opentype"), url("/ScalaSansScWebPro.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Scala';
+  src: url("/ScalaWeb.eot");
+  /* IE9 Compat Modes */
+  src: url("/ScalaWeb.eot?#iefix") format("embedded-opentype"), url("/ScalaWeb.woff") format("woff"); }
+
+@font-face {
+  font-family: 'ScalaItalic';
+  src: url("/ScalaWeb-Ita.eot");
+  /* IE9 Compat Modes */
+  src: url("/ScalaWeb-Ita.eot?#iefix") format("embedded-opentype"), url("/ScalaWeb-Ita.woff") format("woff"); }
+
 html, body {
   height: 100%; }
 
@@ -27,86 +41,69 @@ html {
   color: white;
   text-shadow: none; }
 
-a {
-  text-decoration: none;
-  color: black;
-  font-weight: 700;
-  background: rgba(0, 0, 0, 0.05);
-  border-bottom: 1px solid transparent;
-  transition: all .2s ease; }
-  a:hover {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.99); }
-
-h1, h2, h3, h4, h5 {
-  margin: 0;
+h1, h2, p {
   font-size: 1rem;
-  font-weight: normal;
-  text-transform: lowercase;
-  font-family: 'ScalaSansSc', sans-serif; }
-
-p, li {
   margin: 0;
-  font-size: 1rem; }
-
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0; }
+  font-weight: normal; }
 
 body {
   width: 100%;
   height: 100%;
-  font-family: 'ScalaSans', sans-serif;
+  font-family: 'Scala', sans-serif;
   background: #fbfbfb; }
+  @media only screen and (max-width: 35em) {
+    body {
+      background: rgba(0, 0, 0, 0.85); } }
 
 .wrapper {
   width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  padding: 0 2em; }
-  .wrapper .masthead {
-    width: 100%; }
-    .wrapper .masthead .banner {
-      max-width: 100%;
-      display: flex;
-      align-items: center;
-      margin: auto; }
-      .wrapper .masthead .banner h1 {
-        max-width: 50em;
-        margin: auto;
-        line-height: 1; }
-        .wrapper .masthead .banner h1:before {
-          content: "";
-          display: block;
-          margin: 0 auto 4em auto;
-          width: 40px;
-          height: 8px;
-          background: black; }
+  height: 100%; }
   .wrapper .content {
-    max-width: 30em;
+    width: 100%;
     height: 100%;
-    margin: 4em auto; }
+    display: flex;
+    flex-direction: row; }
+    @media only screen and (max-width: 35em) {
+      .wrapper .content {
+        flex-direction: column; } }
     .wrapper .content section {
-      width: 100%;
-      padding: 40px 0;
+      width: 50%;
+      height: 100%;
       display: flex;
-      flex-direction: column; }
-      .wrapper .content section h2 {
-        width: 100%;
-        margin: 0 0 1.5em 0;
-        text-align: center;
-        color: black; }
-        .wrapper .content section h2:after {
-          content: "";
-          display: block;
-          margin: 1em auto 0;
-          width: 40px;
-          height: 1px;
-          background: black; }
+      padding: 5em; }
+      @media only screen and (max-width: 35em) {
+        .wrapper .content section {
+          width: 100%;
+          height: auto;
+          padding: 3em; } }
       .wrapper .content section article {
-        width: 100%; }
-        .wrapper .content section article p {
-          margin: 0 0 1em 0;
-          line-height: 1.6;
-          color: rgba(0, 0, 0, 0.8); }
+        width: 100%;
+        margin: auto; }
+    .wrapper .content section.masthead {
+      background: white; }
+      @media only screen and (max-width: 35em) {
+        .wrapper .content section.masthead {
+          background: none; } }
+      .wrapper .content section.masthead article h1 {
+        margin: 0 0 .25em 0;
+        font-size: 1.25rem;
+        font-family: 'ScalaSansSc', sans-serif;
+        text-transform: lowercase;
+        letter-spacing: .175em;
+        text-align: center; }
+      .wrapper .content section.masthead article h2 {
+        font-family: 'ScalaItalic', sans-serif;
+        text-align: center; }
+      @media only screen and (max-width: 35em) {
+        .wrapper .content section.masthead article {
+          color: white; } }
+    .wrapper .content section.bio {
+      background: rgba(0, 0, 0, 0.85); }
+      @media only screen and (max-width: 35em) {
+        .wrapper .content section.bio {
+          background: none; } }
+      .wrapper .content section.bio article {
+        max-width: 500px; }
+        .wrapper .content section.bio article p {
+          color: white;
+          line-height: 1.5; }
