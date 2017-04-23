@@ -1,35 +1,32 @@
 @font-face {
-  font-family: 'ScalaSans';
-  src: url("/ScalaSansWebPro.eot");
+  font-family: 'Scala';
+  src: url("ScalaWeb.eot");
   /* IE9 Compat Modes */
-  src: url("/ScalaSansWebPro.eot?#iefix") format("embedded-opentype"), url("/ScalaSansWebPro.woff") format("woff"); }
+  src: url("ScalaWeb.eot?#iefix") format("embedded-opentype"), url("ScalaWeb.woff") format("woff"); }
+
+@font-face {
+  font-family: 'ScalaSans';
+  src: url("ScalaSansWebPro.eot");
+  /* IE9 Compat Modes */
+  src: url("ScalaSansWebPro.eot?#iefix") format("embedded-opentype"), url("ScalaSansWebPro.woff") format("woff"); }
 
 @font-face {
   font-family: 'ScalaSansSc';
-  src: url("/ScalaSansScWebPro.eot");
+  src: url("ScalaSansScWebPro.eot");
   /* IE9 Compat Modes */
-  src: url("/ScalaSansScWebPro.eot?#iefix") format("embedded-opentype"), url("/ScalaSansScWebPro.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Scala';
-  src: url("/ScalaWeb.eot");
-  /* IE9 Compat Modes */
-  src: url("/ScalaWeb.eot?#iefix") format("embedded-opentype"), url("/ScalaWeb.woff") format("woff"); }
-
-@font-face {
-  font-family: 'ScalaItalic';
-  src: url("/ScalaWeb-Ita.eot");
-  /* IE9 Compat Modes */
-  src: url("/ScalaWeb-Ita.eot?#iefix") format("embedded-opentype"), url("/ScalaWeb-Ita.woff") format("woff"); }
+  src: url("ScalaSansScWebPro.eot?#iefix") format("embedded-opentype"), url("ScalaSansScWebPro.woff") format("woff"); }
 
 html, body {
-  height: 100%; }
+  height: 100%;
+  font-family: 'Scala', Georgia, serif; }
 
 html {
   box-sizing: border-box; }
 
 *, *:before, *:after {
-  box-sizing: inherit; }
+  box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
 
 ::-moz-selection {
   background: black;
@@ -41,69 +38,104 @@ html {
   color: white;
   text-shadow: none; }
 
-h1, h2, p {
-  font-size: 1rem;
-  margin: 0;
-  font-weight: normal; }
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle; }
 
+img {
+  width: 100%; }
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0; }
+
+textarea {
+  resize: vertical; }
+
+.browserupgrade {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0; }
+
+a {
+  color: white;
+  text-decoration: underline; }
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
 body {
-  width: 100%;
   height: 100%;
-  font-family: 'Scala', sans-serif;
-  background: #fbfbfb; }
-  @media only screen and (max-width: 35em) {
-    body {
-      background: rgba(0, 0, 0, 0.85); } }
+  background: #252525; }
+
+nav {
+  position: fixed;
+  right: 5em;
+  bottom: 5em; }
+
+h1, h2, h3 {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: 400; }
+
+p, li {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  color: white; }
+
+ol, ul {
+  padding-left: 0;
+  list-style-position: outside; }
 
 .wrapper {
-  width: 100%;
-  height: 100%; }
-  .wrapper .content {
-    width: 100%;
-    height: 100%;
+  max-width: 30em;
+  margin: auto;
+  padding: 5em 1em; }
+  .wrapper header:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 2px;
+    margin: 2em 0;
+    background: rgba(255, 255, 255, 0.1); }
+  .wrapper header img {
     display: flex;
-    flex-direction: row; }
-    @media only screen and (max-width: 35em) {
-      .wrapper .content {
-        flex-direction: column; } }
-    .wrapper .content section {
-      width: 50%;
-      height: 100%;
-      display: flex;
-      padding: 5em; }
-      @media only screen and (max-width: 35em) {
-        .wrapper .content section {
-          width: 100%;
-          height: auto;
-          padding: 3em; } }
-      .wrapper .content section article {
-        width: 100%;
-        margin: auto; }
-    .wrapper .content section.masthead {
-      background: white; }
-      @media only screen and (max-width: 35em) {
-        .wrapper .content section.masthead {
-          background: none; } }
-      .wrapper .content section.masthead article h1 {
-        margin: 0 0 .25em 0;
-        font-size: 1.25rem;
-        font-family: 'ScalaSansSc', sans-serif;
-        text-transform: lowercase;
-        letter-spacing: .175em;
-        text-align: center; }
-      .wrapper .content section.masthead article h2 {
-        font-family: 'ScalaItalic', sans-serif;
-        text-align: center; }
-      @media only screen and (max-width: 35em) {
-        .wrapper .content section.masthead article {
-          color: white; } }
-    .wrapper .content section.bio {
-      background: rgba(0, 0, 0, 0.85); }
-      @media only screen and (max-width: 35em) {
-        .wrapper .content section.bio {
-          background: none; } }
-      .wrapper .content section.bio article {
-        max-width: 500px; }
-        .wrapper .content section.bio article p {
-          color: white;
-          line-height: 1.5; }
+    width: 300px;
+    max-width: 100%;
+    margin: 0 auto 4em auto; }
+  .wrapper header h1 {
+    margin: 0 0 .5em 0;
+    font-size: 1.5rem;
+    font-family: 'ScalaSansSc';
+    text-transform: lowercase;
+    letter-spacing: .1em; }
+  .wrapper header p {
+    margin: 0;
+    font-family: 'ScalaSans'; }
+  .wrapper section {
+    margin: 2em 0; }
+    .wrapper section:after {
+      content: "";
+      display: block;
+      width: 60px;
+      height: 2px;
+      margin: 2em 0;
+      background: rgba(255, 255, 255, 0.1); }
+    .wrapper section:last-child:after {
+      content: none; }
+    .wrapper section h2 {
+      margin: 0 0 .5em 0;
+      font-size: 1.5rem; }
+    .wrapper section p:last-child {
+      margin: 0; }
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */

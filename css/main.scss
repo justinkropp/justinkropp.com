@@ -1,36 +1,35 @@
 
-//font import
+// variables
 
-@font-face {
-  font-family: 'ScalaSans';
-  src: url('/ScalaSansWebPro.eot'); /* IE9 Compat Modes */
-  src: url('/ScalaSansWebPro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/ScalaSansWebPro.woff') format('woff'), /* Pretty Modern Browsers */
-     }
+$white: rgba(255, 255, 255, 1.0);
 
- @font-face {
-   font-family: 'ScalaSansSc';
-   src: url('/ScalaSansScWebPro.eot'); /* IE9 Compat Modes */
-   src: url('/ScalaSansScWebPro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-        url('/ScalaSansScWebPro.woff') format('woff'), /* Pretty Modern Browsers */
-      }
+
+// font import
 
 @font-face {
   font-family: 'Scala';
-  src: url('/ScalaWeb.eot'); /* IE9 Compat Modes */
-  src: url('/ScalaWeb.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/ScalaWeb.woff') format('woff'), /* Pretty Modern Browsers */
+  src: url('ScalaWeb.eot'); /* IE9 Compat Modes */
+  src: url('ScalaWeb.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('ScalaWeb.woff') format('woff'), /* Pretty Modern Browsers */
      }
 
  @font-face {
-   font-family: 'ScalaItalic';
-   src: url('/ScalaWeb-Ita.eot'); /* IE9 Compat Modes */
-   src: url('/ScalaWeb-Ita.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-        url('/ScalaWeb-Ita.woff') format('woff'), /* Pretty Modern Browsers */
+   font-family: 'ScalaSans';
+   src: url('ScalaSansWebPro.eot'); /* IE9 Compat Modes */
+   src: url('ScalaSansWebPro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('ScalaSansWebPro.woff') format('woff'), /* Pretty Modern Browsers */
       }
+
+@font-face {
+  font-family: 'ScalaSansSc';
+  src: url('ScalaSansScWebPro.eot'); /* IE9 Compat Modes */
+  src: url('ScalaSansScWebPro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('ScalaSansScWebPro.woff') format('woff'), /* Pretty Modern Browsers */
+     }
 
 html, body {
     height: 100%;
+    font-family: 'Scala', Georgia, serif;
 }
 
 html {
@@ -39,6 +38,8 @@ html {
 
 *, *:before, *:after {
   box-sizing: inherit;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 ::-moz-selection {
@@ -53,89 +54,150 @@ html {
   text-shadow: none;
 }
 
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+img {
+  width: 100%;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+a {
+  color: $white;
+  text-decoration: underline;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+  height: 100%;
+  background: #252525;
+}
+
+nav {
+  position: fixed;
+  right: 5em;
+  bottom: 5em;
+}
 
 // Typography
 
-h1, h2, p {
+h1, h2, h3 {
   font-size: 1rem;
-  margin: 0;
-  font-weight: normal;
+  line-height: 1.5;
+  color: $white;
+  font-weight: 400;
 }
 
+p, li {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  color: $white;
+}
+
+ol, ul {
+  padding-left: 0;
+  list-style-position: outside;
+}
 
 // Layout
 
-body {
-  width: 100%;
-  height: 100%;
-  font-family: 'Scala', sans-serif;
-  background: rgba(251, 251, 251, 1.0);
-  @media only screen and (max-width: 35em) {
-    background: rgba(0, 0, 0, 0.85);
+.wrapper {
+  max-width: 30em;
+  margin: auto;
+  padding: 5em 1em;
+  header {
+    &:after {
+      content: "";
+      display: block;
+      width: 60px;
+      height: 2px;
+      margin: 2em 0;
+      background: rgba($white, 0.1);
+    }
+    img {
+      display: flex;
+      width: 300px;
+      max-width: 100%;
+      margin: 0 auto 4em auto;
+    }
+    h1 {
+      margin: 0 0 .5em 0;
+      font-size: 1.5rem;
+      font-family: 'ScalaSansSc';
+      text-transform: lowercase;
+      letter-spacing: .1em;
+    }
+    p {
+      margin: 0;
+      font-family: 'ScalaSans';
+    }
+  }
+
+  section {
+    margin: 2em 0;
+    &:after {
+      content: "";
+      display: block;
+      width: 60px;
+      height: 2px;
+      margin: 2em 0;
+      background: rgba($white, 0.1);
+    }
+    &:last-child:after {
+      content: none;
+    }
+    h2 {
+      margin: 0 0 .5em 0;
+      font-size: 1.5rem;
+    }
+    p:last-child {
+      margin: 0;
+    }
   }
 }
 
-.wrapper {
-  width: 100%;
-  height: 100%;
-  .content {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: row;
-    @media only screen and (max-width: 35em) {
-      flex-direction: column;
-    }
-    section {
-      width: 50%;
-      height: 100%;
-      display: flex;
-      padding: 5em;
-      @media only screen and (max-width: 35em) {
-        width: 100%;
-        height: auto;
-        padding: 3em;
-      }
-      article {
-        width: 100%;
-        margin: auto;
-      }
-    }
-    section.masthead {
-      background: rgba(255, 255, 255, 1.0);
-      @media only screen and (max-width: 35em) {
-        background: none;
-      }
-      article {
-        h1 {
-          margin: 0 0 .25em 0;
-          font-size: 1.25rem;
-          font-family: 'ScalaSansSc', sans-serif;
-          text-transform: lowercase;
-          letter-spacing: .175em;
-          text-align: center;
-        }
-        h2 {
-          font-family: 'ScalaItalic', sans-serif;
-          text-align: center;
-        }
-        @media only screen and (max-width: 35em) {
-          color: rgba(255, 255, 255, 1.0);
-        }
-      }
-    }
-    section.bio {
-      background: rgba(0, 0, 0, 0.85);
-      @media only screen and (max-width: 35em) {
-        background: none;
-      }
-      article {
-        max-width: 500px;
-        p {
-          color: rgba(255, 255, 255, 1.0);
-          line-height: 1.5;
-        }
-      }
-    }
-  }
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+
 }
