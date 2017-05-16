@@ -1,0 +1,187 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+//
+//                        ___
+//                       /\_ \
+//  _____     ___     ___\//\ \      __
+// /\ '__`\  / __`\  / __`\\ \ \   /'__`\
+// \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
+//  \ \ ,__/\ \____/\ \____//\____\ \____\
+//   \ \ \/  \/___/  \/___/ \/____/\/____/
+//    \ \_\
+//     \/_/
+//
+// Designed, built, and released under MIT license by @mdo. Learn more at
+// https://github.com/poole/poole.
+
+// @import "variables";
+// @import "base";
+// @import "type";
+// @import "syntax";
+// @import "code";
+// @import "layout";
+// @import "masthead";
+// @import "posts";
+// @import "pagination";
+// @import "message";
+
+// Type
+
+@font-face {
+  font-family: 'FoundersReg';
+  src: url('/assets/FoundersGroteskWeb-Regular.eot'); /* IE9 Compat Modes */
+  src: url('/assets/FoundersGroteskWeb-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/FoundersGroteskWeb-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+}
+
+@font-face {
+  font-family: 'FoundersBold';
+  src: url('/assets/FoundersGroteskWeb-Bold.eot'); /* IE9 Compat Modes */
+  src: url('/assets/FoundersGroteskWeb-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/assets/FoundersGroteskWeb-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+}
+
+// Variables
+
+$black: rgba(31, 31, 31, 1.0);
+$gray: rgba(31, 31, 31, 0.6);
+
+// Body resets
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'FoundersReg';
+}
+
+html {
+  min-height: 100%;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4 {
+  font-size: 1rem;
+  font-weight: normal;
+  color: $black;
+}
+
+p, li {
+  font-size: 1rem;
+  color: $black;
+}
+
+small {
+  font-size: 1rem;
+  color: $black;
+}
+
+a, a:link {
+  text-decoration: none;
+  color: $black;
+}
+
+// Layout
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 960px;
+  min-height: 100vh;
+  margin: auto;
+}
+
+.masthead {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 2em 0;
+  h1 {
+    width: 50%;
+    margin: 0;
+    em {
+      font-style: normal;
+    }
+  }
+  nav {
+    width: 50%;
+    a {
+      display: inline-block;
+      margin: 0 20px 0 0;
+    }
+  }
+}
+
+main {
+  width: 100%;
+  min-height: 100%;
+}
+
+.footer {
+  align-self: flex-end;
+  width: 100%;
+  background: pink;
+}
+
+// Notes Layout
+
+.page-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 2em 0;
+  h1.page-title {
+    width: 50%;
+    margin: 0;
+  }
+}
+
+ul.posts {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  li {
+    display: flex;
+    flex-direction: row;
+    padding: 2em 0;
+    .post-header {
+      width: 50%;
+      .post-title {
+        margin: 0;
+      }
+    }
+    .post-excerpt {
+      width: 50%;
+    }
+  }
+}
+
+// Post Layout
+
+.post {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+
+  .post-header {
+    width: 50%;
+  }
+
+  .post-content {
+    width: 50%;
+  }
+}
