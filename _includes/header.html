@@ -5,11 +5,7 @@
     <em>{{ site.tagline }}</em>
   </h1>
 
-{% comment %}
-  Dynamically generates a list of links to pages with `layout: page` in the front-matter, sorted alphabetically by URL.
-{% endcomment %}
-
-<nav>
+<!-- <nav>
 {% assign pages_list = site.pages | sort:"url" %}
 {% for node in pages_list %}
   {% if node.title != null %}
@@ -18,6 +14,12 @@
     {% endif %}
   {% endif %}
 {% endfor %}
+</nav> -->
+
+<nav>
+  <a href="/expertise/">Expertise</a>
+  <a href="/notes/">Notes</a>
+  <a href="/profile/">Profile</a>
 </nav>
 
 </header>

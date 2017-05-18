@@ -47,7 +47,8 @@
 // Variables
 
 $black: rgba(31, 31, 31, 1.0);
-$gray: rgba(31, 31, 31, 0.6);
+$gray: rgba(31, 31, 31, 0.5);
+$red: rgba(212, 55, 0, 1.0);
 
 // Body resets
 
@@ -75,11 +76,17 @@ html {
 h1, h2, h3, h4 {
   font-size: 1rem;
   font-weight: normal;
+  line-height: 1;
   color: $black;
 }
 
-p, li {
+h3 {
+  font-family: 'FoundersBold';
+}
+
+p, li, time {
   font-size: 1rem;
+  line-height: 1.5;
   color: $black;
 }
 
@@ -91,6 +98,16 @@ small {
 a, a:link {
   text-decoration: none;
   color: $black;
+  -webkit-transition: all 250ms ease;
+}
+
+p a {
+  border-bottom: 1px solid rgba($red, 0.5);
+  // -webkit-transition: all 250ms ease;
+  // background: rgba($black, 0.1);
+  &:hover {
+    border-bottom: 1px solid rgba($red, 1.0);
+  }
 }
 
 // Layout
@@ -111,28 +128,57 @@ a, a:link {
   h1 {
     width: 50%;
     margin: 0;
+    font-family: 'FoundersBold';
     em {
+      display: block;
       font-style: normal;
+      font-family: 'FoundersReg';
+      color: $gray;
     }
   }
   nav {
     width: 50%;
+    align-self: flex-end;
     a {
       display: inline-block;
       margin: 0 20px 0 0;
+      color: $gray;
+      &:hover,
+      &.active {
+        color: $black;
+      }
     }
   }
 }
 
 main {
+  flex-grow: 2;
   width: 100%;
   min-height: 100%;
 }
 
 .footer {
+  display: flex;
+  flex-direction: row;
   align-self: flex-end;
   width: 100%;
-  background: pink;
+  padding: 2em 0;
+  small {
+    width: 50%;
+    color: $gray;
+  }
+  nav {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    a {
+      margin: 0 20px 0 0;
+      color: $gray;
+      &:hover{
+        color: $black;
+      }
+    }
+  }
 }
 
 // Notes Layout
@@ -162,10 +208,18 @@ ul.posts {
       width: 50%;
       .post-title {
         margin: 0;
+        font-family: 'FoundersBold';
+      }
+      time {
+        color: $gray;
       }
     }
     .post-excerpt {
       width: 50%;
+      p {
+        margin: 0;
+        padding: 0;
+      }
     }
   }
 }
@@ -176,12 +230,92 @@ ul.posts {
   display: flex;
   flex-direction: row;
   height: 100%;
+  padding: 2em 0;
 
   .post-header {
     width: 50%;
+    .post-title {
+      margin: 0;
+      font-family: 'FoundersBold';
+    }
+    time {
+      color: $gray;
+    }
   }
 
   .post-content {
     width: 50%;
+    p:first-child {
+      margin-top: 0;
+    }
+    img.wide {
+      width: 200%;
+      height: auto;
+      margin-left: -100%;
+    }
+  }
+}
+
+// Profile Layout
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  padding: 2em 0;
+
+  .profile-header {
+    width: 50%;
+    padding-right: 5%;
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  .profile-content {
+    width: 50%;
+    p:first-child {
+      margin-top: 0;
+    }
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// Expertise Layout
+
+.expertise {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  padding: 2em 0;
+
+  .expertise-header {
+    width: 50%;
+    padding-right: 5%;
+    h2 {
+      margin: 0;
+      font-family: 'FoundersBold';
+    }
+    p {
+      margin: 0;
+      color: $gray;
+    }
+  }
+
+  .expertise-content {
+    width: 50%;
+    p:first-child {
+      margin-top: 0;
+    }
+    p:last-child {
+      margin-bottom: 0;
+    }
+    ol {
+      list-style: none;
+      padding: 0;
+    }
   }
 }
