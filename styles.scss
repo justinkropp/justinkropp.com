@@ -162,7 +162,7 @@ main {
   flex-direction: row;
   align-self: flex-end;
   width: 100%;
-  padding: 2em 0;
+  padding: 4em 0 2em 0;
   small {
     width: 50%;
     color: $gray;
@@ -181,16 +181,32 @@ main {
   }
 }
 
+// Home Page
+
+.home {
+  display: flex;
+  flex-grow: 2;
+  .introduction {
+    margin: auto;
+    p {
+      font-family: 'FoundersBold';
+      font-size: 1.5rem;
+    }
+  }
+}
+
 // Notes Layout
 
 .page-header {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  padding: 2em 0;
+  padding: 4em 0;
   h1.page-title {
     width: 50%;
     margin: 0;
+    font-size: 2.5rem;
+    // font-family: 'FoundersBold';
   }
 }
 
