@@ -1,0 +1,25 @@
+<header class="masthead">
+
+  <h1 class="masthead-title">
+    <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+    <em>{{ site.tagline }}</em>
+  </h1>
+
+<!-- <nav>
+{% assign pages_list = site.pages | sort:"url" %}
+{% for node in pages_list %}
+  {% if node.title != null %}
+    {% if node.layout == "page" %}
+      <a class="{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</nav> -->
+
+<nav>
+  <a href="/expertise/">Expertise</a>
+  <a href="/notes/">Notes</a>
+  <a href="/profile/">Profile</a>
+</nav>
+
+</header>
