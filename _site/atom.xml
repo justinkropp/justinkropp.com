@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Justin Kropp</title>
- <link href="http://getpoole.com/atom.xml" rel="self"/>
- <link href="http://getpoole.com/"/>
- <updated>2017-05-27T11:22:48-04:00</updated>
- <id>http://getpoole.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-07-30T14:55:44-04:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
    <email>justinkropp@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>What Is A Designer</title>
-   <link href="http://getpoole.com/2017/05/24/what-is-a-designer/"/>
+   <link href="http://localhost:4000/2017/05/24/what-is-a-designer/"/>
    <updated>2017-05-24T00:00:00-04:00</updated>
-   <id>http://getpoole.com/2017/05/24/what-is-a-designer</id>
+   <id>http://localhost:4000/2017/05/24/what-is-a-designer</id>
    <content type="html">&lt;p&gt;I’ve been re-reading Norman Potter’s eloquent What is a designer. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.&lt;/p&gt;
 
 &lt;p&gt;The nature of this book has proven to be, with each passing year, more and more imperative as a tool for young designers to use in exploring and shaping their discipline. Potter positions design as a serious act of intellectual enquiry. The following passages always resonate with me in a profound way:&lt;/p&gt;
@@ -41,9 +41,9 @@
  
  <entry>
    <title>Alone At My Desk</title>
-   <link href="http://getpoole.com/2017/05/20/alone-at-my-desk/"/>
+   <link href="http://localhost:4000/2017/05/20/alone-at-my-desk/"/>
    <updated>2017-05-20T00:00:00-04:00</updated>
-   <id>http://getpoole.com/2017/05/20/alone-at-my-desk</id>
+   <id>http://localhost:4000/2017/05/20/alone-at-my-desk</id>
    <content type="html">&lt;p&gt;I’ve spent a lot of time thinking about design as both a discipline and a practice. The former reinforcing the latter and vice versa. I try to engage in each daily — exercising the discipline to move the practice forward. To evolve. To get better. And with any worthy pursuit, failure is part of it. But the sticky part is that failure comes only after trying. Never before.&lt;/p&gt;
 
 &lt;p&gt;Failure is difficult to deal with, but I keep trying to move my practice forward because the rewards are usually worth it, the process is usually enjoyable – albeit a tinge sadistic – and it is my professional responsibility as a design practitioner. Were that drive to push forward fade away, I could no longer respectfully call myself a graphic designer.&lt;/p&gt;
@@ -58,9 +58,9 @@
  
  <entry>
    <title>Discourse, Joe Stewart</title>
-   <link href="http://getpoole.com/2016/03/09/joe-stewart/"/>
+   <link href="http://localhost:4000/2016/03/09/joe-stewart/"/>
    <updated>2016-03-09T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2016/03/09/joe-stewart</id>
+   <id>http://localhost:4000/2016/03/09/joe-stewart</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;Work &amp;amp; Co&lt;/a&gt; has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;That’s very nice of you to say. I’m most proud of some very, very basic things:&lt;/p&gt;
@@ -194,9 +194,9 @@ I like where I work, and I think my co-workers do too.&lt;/p&gt;
  
  <entry>
    <title>Discourse, Rob Giampietro</title>
-   <link href="http://getpoole.com/2016/03/01/rob-giampietro/"/>
+   <link href="http://localhost:4000/2016/03/01/rob-giampietro/"/>
    <updated>2016-03-01T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2016/03/01/rob-giampietro</id>
+   <id>http://localhost:4000/2016/03/01/rob-giampietro</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This interview was originally published on the now defunct oneskinnyj.com&lt;sup id=&quot;fnref:fn-sample_footnote&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; site. I’m proud of this interview and am grateful to Rob for being so generous with his time and answers.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hi Rob. Can you give our viewers a bit of history about yourself (where you went to school, where you’ve worked, and where you are now)?&lt;/strong&gt;&lt;/p&gt;
@@ -284,9 +284,9 @@ I like where I work, and I think my co-workers do too.&lt;/p&gt;
  
  <entry>
    <title>Beyond Familiar</title>
-   <link href="http://getpoole.com/2016/01/01/beyond-familiar/"/>
+   <link href="http://localhost:4000/2016/01/01/beyond-familiar/"/>
    <updated>2016-01-01T00:00:00-05:00</updated>
-   <id>http://getpoole.com/2016/01/01/beyond-familiar</id>
+   <id>http://localhost:4000/2016/01/01/beyond-familiar</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published in &lt;a href=&quot;http://www.offscreenmag.com&quot;&gt;Offscreen Magaine&lt;/a&gt;, Issue &lt;a href=&quot;http://archive.offscreenmag.com/issue3/&quot;&gt;No3&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently visited &lt;a href=&quot;https://en.wikipedia.org/wiki/Chattanooga,_Tennessee&quot;&gt;Chattanooga&lt;/a&gt; in Tennessee. It’s my hometown and a trip there is never easy for me. There is always a point during my visits when I become emotional as slivers of my past — the good and the bad — resurface. There are parts of the city that conjure up memories that I’d rather not revisit: painful breakups, a car accident, and familial drama. But there are also locations that provide an overwhelming source of happiness and fondness — the hundreds of beautiful days I spent outside rock-climbing with friends, the amazing job I had at an outdoor shop during high-school and college, and my first kiss with Erin.&lt;/p&gt;
