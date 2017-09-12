@@ -98,7 +98,11 @@ body {
 
 html {
   height: 100%;
-  font-size: 20px;
+  font-size: 18px;
+}
+
+body {
+  background: rgba($gray, 0.025);
 }
 
 a, a:link {
@@ -148,12 +152,13 @@ ol, ul {
 main {
   max-width: 960px;
   height: 100%;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .page-header {
   width: 100%;
   margin: 0 0 4em 0;
+  border: 1px solid red;
 }
 
 h2.page-title {
@@ -164,10 +169,10 @@ h2.page-title {
 // Masthead & Footer
 
 .masthead {
-  display: flex;
   width: 100%;
   padding: 1em;
   margin-bottom: 8em;
+  background: pink;
   h1 {
     margin: 0 auto;
     font-family: 'ScalaSc';
@@ -214,13 +219,13 @@ h2.page-title {
 
 .footer {
   max-width: 535px;
-  margin: 6em auto 1em auto;
+  margin: 6em auto 2em auto;
   &:before {
     content: '';
     display: block;
-    width: 6em;
-    height: 2px;
-    margin: 0 auto 1em;
+    width: 4em;
+    height: 1px;
+    margin: 0 auto 2em;
     background: rgba($gray, 0.25);
   }
   p {
@@ -265,4 +270,46 @@ h2.page-title {
 
 .about-content {
   max-width: 635px;
+  margin: auto;
+}
+
+// Essays
+
+.essays-content {
+  display: flex;
+  flex-direction: column;
+  ol {
+    display: flex;
+    flex-direction: column;
+    li {
+      display: flex;
+      flex-direction: row;
+      padding: 1.5em 0;
+      border-bottom: 1px solid rgba($gray, 0.1);
+      &:first-child {
+        padding-top: 0;
+      }
+      &:last-child {
+        border: none;
+        padding-bottom: 0;
+      }
+      time {
+        flex: 2;
+        font-family: 'ScalaSc';
+        font-size: .9rem;
+        color: $gray;
+        text-transform: lowercase;
+        letter-spacing: .10em;
+      }
+      h2 {
+        flex: 4;
+        margin: 0;
+      }
+      p {
+        flex: 6;
+        font-family: 'ScalaItalic';
+        margin: 0;
+      }
+    }
+  }
 }
