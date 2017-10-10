@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Justin Kropp
 tagline:             Designer
 url:                 http://getpoole.com
-paginate:            1
+paginate:            0
 baseurl:             ""
 
 # Assets
@@ -27,6 +27,6 @@ github:
   repo:              https://github.com/justinkropp/justinkropp
 
 # Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+# gems:
+#   - jekyll-paginate
+#   - jekyll-gist
