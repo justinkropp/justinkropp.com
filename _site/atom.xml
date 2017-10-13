@@ -4,7 +4,11 @@
  <title>Justin Kropp</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
+<<<<<<< HEAD
  <updated>2017-10-10T13:04:51-04:00</updated>
+=======
+ <updated>2017-09-14T17:23:10-04:00</updated>
+>>>>>>> 5f746688d86585d49f540f141da3bb11b16738fc
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
