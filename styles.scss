@@ -455,12 +455,19 @@ ol.engagements {
     }
     a {
       display: block;
+      -webkit-transform: all .1s ease;
       img {
+        position: relative;
         display: block;
         width: 100%;
         height: 300px;
         margin: 0 0 1em 0;
         background: $black;
+        transition: all 0.1s linear;
+        transform: scale3d(1, 1, 1);
+        &:hover {
+          transform: scale3d(1.05, 1.05, 1);
+        }
       }
       h3 {
         margin: 0 0 .5em 0;
@@ -528,12 +535,19 @@ ol.engagements {
       }
       a {
         display: block;
+        -webkit-transform: all .1s ease;
         img {
+          position: relative;
           display: block;
           width: 100%;
           height: 300px;
           margin: 0 0 1em 0;
           background: $black;
+          transition: all 0.1s linear;
+          transform: scale3d(1, 1, 1);
+          &:hover {
+            transform: scale3d(1.05, 1.05, 1);
+          }
         }
         h3 {
           margin: 0 0 .5em 0;
@@ -580,6 +594,16 @@ ol.engagements {
       line-height: 1;
       border: 1px solid rgba($black, 0.25);
       border-radius: 3px;
+      -webkit-transition: all .1s ease;
+    }
+    input[type="text"]:focus,
+    input[type="email"]:focus {
+      outline: none;
+      border: 1px solid rgba($black, 0.5);
+    }
+    input[type="text"]:hover,
+    input[type="email"]:hover {
+      border: 1px solid rgba($black, 0.75);
     }
   }
   button {
