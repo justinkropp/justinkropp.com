@@ -596,6 +596,18 @@ ol.engagements {
 
 .newsletter-content {
   max-width: 635px;
+  figure {
+    margin: 0;
+    width: 100%;
+    img {
+      width: 100%;
+    }
+    figcaption {
+      font-size: .9rem;
+      font-family: 'ScalaItalic';
+      color: rgba($black, 0.5);
+    }
+  }
 }
 
 #mc_embed_signup {
