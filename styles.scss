@@ -403,6 +403,12 @@ h2.page-title {
     letter-spacing: .10em;
     text-align: center;
   }
+  ol {
+    list-style-type: decimal;
+    li {
+      margin: .5em 0;
+    }
+  }
 }
 
 // Curriculum Vitae
