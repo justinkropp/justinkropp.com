@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reorienting my Practice
+title: Reorienting My Practice
 excerpt: Ruminating on my professional career and exploring what it means to reshape my practice.
 ---
 
