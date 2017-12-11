@@ -1,11 +1,11 @@
 # Permalinks
-permalink:           pretty
+permalink:           /:title/
 
 # Setup
 title:               Justin Kropp
-tagline:             Designer
-url:                 http://getpoole.com
-paginate:            1
+tagline:             Graphic designer exploring in design, technology, and community.
+url:                 http://justinkropp.com
+paginate:            5
 baseurl:             ""
 
 # Assets
@@ -30,3 +30,9 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+# Collections
+# collections_dir: collections
+#   collections:
+#     - design
+#     - interview

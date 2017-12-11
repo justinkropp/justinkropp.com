@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Discourse, Joe Stewart
+title: Joe Stewart
+categories: Discourse
 excerpt: Work & Co's Joe Stewart and I discuss the role of traditional design principles, the state of design, and the shape of a career.
 ---
 
-**[Work & Co]() has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?**
+**[Work &amp; Co]() has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?**
 
 That’s very nice of you to say. I’m most proud of some very, very basic things:
 

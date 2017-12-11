@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Discourse, Rob Giampietro
+title: Rob Giampietro
+categories: Discourse
 excerpt: A resurrected interview with the incredibly smart designer, writer, and now Creative Lead for Google Design NYC.
 ---
 
-*This interview was originally published on the now defunct oneskinnyj.com[^fn-sample_footnote] site. I’m proud of this interview and am grateful to Rob for being so generous with his time and answers.*
-
-**Hi Rob. Can you give our viewers a bit of history about yourself (where you went to school, where you’ve worked, and where you are now)?**
+**Hi Rob. Can you give our viewers a bit of history about yourself — where you went to school, where you’ve worked, and where you are now?**
 
 I grew up in Minneapolis listening to a lot of jazz on ECM and going to the Walker Art Center whenever I could. Minneapolis, ECM, and the Walker’s design department and bookstore were all huge influences on me. I got a B.A. in Art from Yale and went to work at [Winterhouse](http://www.aiga.org/medalists-william-drenttel-and-jessica-helfand/). Bill Drenttel and Jessica Helfand were very giving and had unique practice that allowed me space to develop as a designer — it was like a kind of grad school for me. When I left to go to New York I worked at the New York Times Magazine for almost a year — a great introduction to New York — before I joined Michael Bierut’s team at Pentagram as a freelancer, which was also an amazing learning experience. When my Winterhouse colleague Kevin Smith arrived in New York we began freelancing together and launched the studio Giampietro+Smith, which we ran for five years. I joined [Project Projects](http://www.projectprojects.com/) as a principal in 2010. Also in the mix I did a lot of design writing, was vice president of AIGA/NY, did a lot of teaching at Parsons, RISD, and SVA, and started a website of design writing and resources called [Lined & Unlined](http://www.linedandunlined.com/).
 

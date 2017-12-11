@@ -4,7 +4,7 @@
  <title>Justin Kropp</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-09-11T17:35:44-04:00</updated>
+ <updated>2017-12-09T15:18:54-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mark Otto</name>
@@ -13,10 +13,127 @@
 
  
  <entry>
+   <title>WordPress</title>
+   <link href="http://localhost:4000/wordpress/"/>
+   <updated>2017-12-09T00:00:00-05:00</updated>
+   <id>http://localhost:4000/wordpress</id>
+   <content type="html">&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor &lt;a href=&quot;#&quot;&gt;fringilla&lt;/a&gt;. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.&lt;/p&gt;
+
+&lt;!-- ![placeholder](https://source.unsplash.com/user/vanschneider/800x500) --&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://source.unsplash.com/user/vanschneider/800x500&quot; alt=&quot;An awesome picture&quot; /&gt;
+  &lt;figcaption&gt;MDN Logo&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+
+&lt;h2 id=&quot;header-two&quot;&gt;Header Two&lt;/h2&gt;
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;header-three&quot;&gt;Header Three&lt;/h3&gt;
+&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Readmill</title>
+   <link href="http://localhost:4000/readmill/"/>
+   <updated>2017-12-09T00:00:00-05:00</updated>
+   <id>http://localhost:4000/readmill</id>
+   <content type="html">&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor &lt;a href=&quot;#&quot;&gt;fringilla&lt;/a&gt;. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.&lt;/p&gt;
+
+&lt;!-- ![placeholder](https://source.unsplash.com/user/vanschneider/800x500) --&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://source.unsplash.com/user/vanschneider/800x500&quot; alt=&quot;An awesome picture&quot; /&gt;
+  &lt;figcaption&gt;MDN Logo&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+
+&lt;h2 id=&quot;header-two&quot;&gt;Header Two&lt;/h2&gt;
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;header-three&quot;&gt;Header Three&lt;/h3&gt;
+&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thrive Global</title>
+   <link href="http://localhost:4000/thrive/"/>
+   <updated>2017-12-05T00:00:00-05:00</updated>
+   <id>http://localhost:4000/thrive</id>
+   <content type="html">&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor &lt;a href=&quot;#&quot;&gt;fringilla&lt;/a&gt;. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.&lt;/p&gt;
+
+&lt;!-- ![placeholder](https://source.unsplash.com/user/vanschneider/800x500) --&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://source.unsplash.com/user/vanschneider/800x500&quot; alt=&quot;An awesome picture&quot; /&gt;
+  &lt;figcaption&gt;MDN Logo&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/p&gt;
+
+&lt;h2 id=&quot;header-two&quot;&gt;Header Two&lt;/h2&gt;
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;header-three&quot;&gt;Header Three&lt;/h3&gt;
+&lt;p&gt;Etiam porta sem malesuada magna mollis euismod. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tackling Proficiency</title>
+   <link href="http://localhost:4000/tackling-proficiency/"/>
+   <updated>2017-12-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/tackling-proficiency</id>
+   <content type="html">&lt;p&gt;I was once asked during an interview how I go about staying up to date on changes in my field — from relevant news and research to new tools and methodologies. I responded that I practice daily and that practice takes the form of reading and experimentation, that is part of my job, and as such that practice is carried out during business hours. I went on to explain that I usually take a couple hours each day to read, write, and explore what I’ve read. My response was accepted, but somewhat apprehensively, which confounded me. It confounded me because I associate the above activities with professional growth, which benefits both myself and my employer. Furthermore, I view employment as an investment. Your employer is making an investment in you with the hope that you will deliver a good return on their investment. A competent investor will want to see growth.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reorienting My Practice</title>
+   <link href="http://localhost:4000/reorienting-my-practice/"/>
+   <updated>2017-11-10T00:00:00-05:00</updated>
+   <id>http://localhost:4000/reorienting-my-practice</id>
+   <content type="html">&lt;p&gt;I’ve been a design practitioner for almost fifteen years now — and for the first time in that fifteen year run I’ve found myself without a job. No clients. No deadlines. No pitches or presentations. Just myself with some time on my hands. It’s uncomfortable and daunting. I’m a busy body and don’t do well when left alone with big chunks of unstructured time.&lt;/p&gt;
+
+&lt;p&gt;I’ve always moved from one job to the next when an opportunity presented itself that I thought was a move in the right professional direction; a new path that would allow me to grow in new ways and exercise that new growth.  That pattern has proven to be an invaluable one. One that has presented me with enumerable lessons along the way and allowed me to engage with a caliber of colleague and client that I couldn’t have otherwise imagined.&lt;/p&gt;
+
+&lt;p&gt;Looking back, I don’t think I would have altered that path in any way, even though there were many times when I thought I had chosen wrong. That dissonance always seemed to disappear and give way to dedication to the tasks at hand and a drive to do a good job.&lt;/p&gt;
+
+&lt;p&gt;However, that dissonance is back. This time away from my practice has given me some space to reflect on questions that have been — if I’m honest with myself — ever-present.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Do I enjoy what I’m doing?&lt;/li&gt;
+  &lt;li&gt;I’m I passionate about the work I’m involved in?&lt;/li&gt;
+  &lt;li&gt;How does my expertise and my work serve the common good?&lt;/li&gt;
+  &lt;li&gt;Do I want to continue down this same path?&lt;/li&gt;
+  &lt;li&gt;Does my work make me happy?&lt;/li&gt;
+  &lt;li&gt;Is there something else out there that might be more meaningful for me?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I’ve often spent large amounts of time asking them, but a disproportionate amount of time actually trying to answer them. I suspect that I’ve avoided really digging into finding answers for a fear of, well, actually finding some answers and then not liking them. I’ve been exploring these questions again during this gift of time that I’ve been dealt and have found some answers that are shaping the next chapter of my professional practice.&lt;/p&gt;
+
+&lt;p&gt;Out of the questions above, one seems to be the root of what has been driving the others:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How does my expertise and my work serve the common good?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If I take a hard look at the work I’ve done over the course of my career, a pattern emerges that warrants examination. While I can say that my work has served a purpose, that purpose has always felt transient and superficial. I’ve helped startups launch products and scale them. I’ve helped small and mid-size businesses get their message out and connect with and grow their audience. I’ve helped schools and universities improve their admission rates. I’ve helped SaSS companies improve their user acquisition, retention, and engagement. My work has contributed to growing bottom lines. But have I ever truly affected positive change at scale? Has the work that I’ve done as a designer fundamentally made a difference in a way that improved the world around me? I honestly can’t say, and that doesn’t sit well with me.&lt;/p&gt;
+
+&lt;p&gt;How can I use my skills and expertise to serve those who could truly benefit from the power of design? That’s the question that I’ve been sitting with and one that I’d like to dedicate some time to answering.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>What Is A Designer</title>
-   <link href="http://localhost:4000/2017/05/24/what-is-a-designer/"/>
+   <link href="http://localhost:4000/what-is-a-designer/"/>
    <updated>2017-05-24T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2017/05/24/what-is-a-designer</id>
+   <id>http://localhost:4000/what-is-a-designer</id>
    <content type="html">&lt;p&gt;I’ve been re-reading Norman Potter’s eloquent What is a designer. There are a handful of books that I revisit periodically to both refresh my perspective on and rekindle the relationship with my discipline — graphic design.&lt;/p&gt;
 
 &lt;p&gt;The nature of this book has proven to be, with each passing year, more and more imperative as a tool for young designers to use in exploring and shaping their discipline. Potter positions design as a serious act of intellectual enquiry. The following passages always resonate with me in a profound way:&lt;/p&gt;
@@ -41,9 +158,9 @@
  
  <entry>
    <title>Alone At My Desk</title>
-   <link href="http://localhost:4000/2017/05/20/alone-at-my-desk/"/>
+   <link href="http://localhost:4000/alone-at-my-desk/"/>
    <updated>2017-05-20T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2017/05/20/alone-at-my-desk</id>
+   <id>http://localhost:4000/alone-at-my-desk</id>
    <content type="html">&lt;p&gt;I’ve spent a lot of time thinking about design as both a discipline and a practice. The former reinforcing the latter and vice versa. I try to engage in each daily — exercising the discipline to move the practice forward. To evolve. To get better. And with any worthy pursuit, failure is part of it. But the sticky part is that failure comes only after trying. Never before.&lt;/p&gt;
 
 &lt;p&gt;Failure is difficult to deal with, but I keep trying to move my practice forward because the rewards are usually worth it, the process is usually enjoyable – albeit a tinge sadistic – and it is my professional responsibility as a design practitioner. Were that drive to push forward fade away, I could no longer respectfully call myself a graphic designer.&lt;/p&gt;
@@ -57,10 +174,10 @@
  </entry>
  
  <entry>
-   <title>Discourse, Joe Stewart</title>
-   <link href="http://localhost:4000/2016/03/09/joe-stewart/"/>
+   <title>Joe Stewart</title>
+   <link href="http://localhost:4000/joe-stewart/"/>
    <updated>2016-03-09T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2016/03/09/joe-stewart</id>
+   <id>http://localhost:4000/joe-stewart</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;&quot;&gt;Work &amp;amp; Co&lt;/a&gt; has built up an already impressive list of accomplishments — everything from the company leadership, to the culture, to the body of work. What are you most proud of so far?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;That’s very nice of you to say. I’m most proud of some very, very basic things:&lt;/p&gt;
@@ -193,13 +310,11 @@ I like where I work, and I think my co-workers do too.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Discourse, Rob Giampietro</title>
-   <link href="http://localhost:4000/2016/03/01/rob-giampietro/"/>
+   <title>Rob Giampietro</title>
+   <link href="http://localhost:4000/rob-giampietro/"/>
    <updated>2016-03-01T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2016/03/01/rob-giampietro</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;This interview was originally published on the now defunct oneskinnyj.com&lt;sup id=&quot;fnref:fn-sample_footnote&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; site. I’m proud of this interview and am grateful to Rob for being so generous with his time and answers.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hi Rob. Can you give our viewers a bit of history about yourself (where you went to school, where you’ve worked, and where you are now)?&lt;/strong&gt;&lt;/p&gt;
+   <id>http://localhost:4000/rob-giampietro</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Hi Rob. Can you give our viewers a bit of history about yourself — where you went to school, where you’ve worked, and where you are now?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I grew up in Minneapolis listening to a lot of jazz on ECM and going to the Walker Art Center whenever I could. Minneapolis, ECM, and the Walker’s design department and bookstore were all huge influences on me. I got a B.A. in Art from Yale and went to work at &lt;a href=&quot;http://www.aiga.org/medalists-william-drenttel-and-jessica-helfand/&quot;&gt;Winterhouse&lt;/a&gt;. Bill Drenttel and Jessica Helfand were very giving and had unique practice that allowed me space to develop as a designer — it was like a kind of grad school for me. When I left to go to New York I worked at the New York Times Magazine for almost a year — a great introduction to New York — before I joined Michael Bierut’s team at Pentagram as a freelancer, which was also an amazing learning experience. When my Winterhouse colleague Kevin Smith arrived in New York we began freelancing together and launched the studio Giampietro+Smith, which we ran for five years. I joined &lt;a href=&quot;http://www.projectprojects.com/&quot;&gt;Project Projects&lt;/a&gt; as a principal in 2010. Also in the mix I did a lot of design writing, was vice president of AIGA/NY, did a lot of teaching at Parsons, RISD, and SVA, and started a website of design writing and resources called &lt;a href=&quot;http://www.linedandunlined.com/&quot;&gt;Lined &amp;amp; Unlined&lt;/a&gt;.&lt;/p&gt;
 
@@ -272,10 +387,116 @@ I like where I work, and I think my co-workers do too.&lt;/p&gt;
   &lt;li&gt;You will never work harder than when you’re building something: find balance. Sometimes the best way to solve a creative problem is to take a vacation or read a book.&lt;/li&gt;
 &lt;/ol&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Example Content</title>
+   <link href="http://localhost:4000/example-content/"/>
+   <updated>2016-01-02T00:00:00-05:00</updated>
+   <id>http://localhost:4000/example-content</id>
+   <content type="html">&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/user/vanschneider/800x600&quot; alt=&quot;placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;p&gt;Footnotes are supported as part of the Markdown syntax. Here’s one in action. Clicking this number&lt;sup id=&quot;fnref:fn-sample_footnote&quot;&gt;&lt;a href=&quot;#fn:fn-sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will lead you to a footnote. The syntax looks like:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;Clicking this number[^fn-sample_footnote]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Each footnote needs the &lt;code class=&quot;highlighter-rouge&quot;&gt;^fn-&lt;/code&gt; prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;[^fn-sample_footnote]: Handy! Now click the return link to go back.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;Gists via GitHub Pages&lt;/h3&gt;
+
+&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
+
+&lt;noscript&gt;&lt;pre&gt;400: Invalid request
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/13f94b734a4ddb132735.js?file=gist.md&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/user/erondu/800x600&quot; alt=&quot;placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
+
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:fn-sample_footnote&quot;&gt;
-      &lt;p&gt;oneskinnyj.com was a moniker and online repository I used for several years. It housed the aforementioned interview series, which I will be resurrecting here. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Handy! Now click the return link to go back. &lt;a href=&quot;#fnref:fn-sample_footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -284,9 +505,9 @@ I like where I work, and I think my co-workers do too.&lt;/p&gt;
  
  <entry>
    <title>Beyond Familiar</title>
-   <link href="http://localhost:4000/2016/01/01/beyond-familiar/"/>
+   <link href="http://localhost:4000/beyond-familiar/"/>
    <updated>2016-01-01T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2016/01/01/beyond-familiar</id>
+   <id>http://localhost:4000/beyond-familiar</id>
    <content type="html">&lt;p&gt;&lt;em&gt;This essay was originally published in &lt;a href=&quot;http://www.offscreenmag.com&quot;&gt;Offscreen Magaine&lt;/a&gt;, Issue &lt;a href=&quot;http://archive.offscreenmag.com/issue3/&quot;&gt;No3&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently visited &lt;a href=&quot;https://en.wikipedia.org/wiki/Chattanooga,_Tennessee&quot;&gt;Chattanooga&lt;/a&gt; in Tennessee. It’s my hometown and a trip there is never easy for me. There is always a point during my visits when I become emotional as slivers of my past — the good and the bad — resurface. There are parts of the city that conjure up memories that I’d rather not revisit: painful breakups, a car accident, and familial drama. But there are also locations that provide an overwhelming source of happiness and fondness — the hundreds of beautiful days I spent outside rock-climbing with friends, the amazing job I had at an outdoor shop during high-school and college, and my first kiss with Erin.&lt;/p&gt;
@@ -316,6 +537,150 @@ I like where I work, and I think my co-workers do too.&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Naz Hamid</title>
+   <link href="http://localhost:4000/naz-hamid/"/>
+   <updated>2012-02-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/naz-hamid</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;I think it is safe to say that almost every designer, at some point, considers opening their own studio or practice. For some, that realization comes early. When did you decide it was time to do your own thing? What was the first thing you did after making the decision to form Weightshift?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two forms of Weightshift — when it was just me and the moniker I operated under, and then what it is today, with four core people and regular people we work with. I’ll answer the question more so to the latter phase of the studio. Moving West to San Francisco had an impact in that I was searching for the next thing — whether to work for one of the companies that I’ve been fortunate to have been offered work at or just keeping doing what I do, but bigger. It was the second part I chose. I place a huge importance on quality of life and independence and so it made sense. The first thing I did when I made the decision to make Weightshift a studio comprised of more than just myself, was to actually register the studio as a company with the state of California.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you already have current clients in place or did you have to seek out new work to make the decision feasible?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I had existing clients but again, it was a re-invention of the studio. Now it was many, and so, the work and clients, had to scale. A key client, who we’re fortunate to now call friends and collaborators, was the first client we had as a group and that set things in motion. We’ve been fortunate enough that word of mouth, referrals and the website along with articles we’ve written and other community-driven exposure has led clients to us.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When the time came to actually attract new clients, how did you go about doing so? Email? Cold calls? Networking opportunities (events)? Did anything seem to work more effectively than another?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been very, very, very fortunate prior to the group studio and now, as a group, that we’ve not had to email or cold call or network to get the studio name out there. Certainly, I think doing those things might bring in more business, but we’ve seemed to figure out who our clients are and who we want to work with.&lt;/p&gt;
+
+&lt;p&gt;That’s important to the studio culture and general happiness. Once you identify the types of people you enjoy working with and the kind of work and clients you want to work with, you figure out how to put your best foot forward in getting that kind of work. Your ideals, principles and approach, if you put them out correctly, will hopefully resonate with the right people.&lt;/p&gt;
+
+&lt;p&gt;For us, what works is doing good work for the kinds of people we want to attract but also giving back to the community that we’re a part of everyday. Whether that means writing articles, or sharing knowledge, releasing free code or making web applications open to all.&lt;/p&gt;
+
+&lt;p&gt;Many studios strike a balance between accepting projects they really want to work on and working on projects that are solely to pay the bills. Were you selective about the type of work you were accepting or did you find yourself in a position, early on, where you had to accept less glamorous work to pay the bills?
+Part of the answer is above, but yes, we try to be selective in the kinds of clients we work with. Because we’re a small studio, we can do that, as we tend to have a full load that works out to a quarterly timeline. We tend to get booked in 3–4 month chunks, but we’ve been taking on smaller, shorter and interesting projects in between the bigger ones.&lt;/p&gt;
+
+&lt;p&gt;Before the studio, I did indeed have to take on what work I could find. There’s a part of me that will never stop the hustle. When you pursue a path that’s independent, you have this hustling streak — this constant ebb and flow in how you’re sizing up work and how the work defines you. If you work hard and you do the kind of work that you feel closely aligns with what you like working on, you’ll get into a rhythm and find people to jam with that appreciate what you do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;From your experiences thus far, what are some key factors into starting and maintaining a successful studio practice? Apart from the obvious, what do you feel best serves that newbie striking out on his or her own?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Discipline is the biggest. I know some people like to call work “play”. But I think that blurs the line between personal time and professional time and some people can’t turn it off when they should. When you’re younger, it’s easy to burn the midnight oil. I did it throughout my early and late 20s — I was a true insomniac! But that’s how things got done and you can really be prolific that way. However, I think the landscape’s changed — you can work on just a few things and make those things be great and make it work just as well.
+Secondarily and supplementary to the above is that you should develop a culture. Have morals, guidelines, criteria and an environment that supports the studio. Since it’s typically a client services driven venture, be sure to set up the studio and the people working within it, for success. Whatever that means to you. The beauty of studios, like people, are the different approaches.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You were in Chicago for quite some time before heading out west. Why the move? How has that move affected Weightshift — if at all?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The winters! Chicago has hardcore winters. Primarily, my wife and I got tired of the weather. We like moderate to tropical climates. Given my background, I’m surprised I lasted as long as I did in Chicago. It’s a great city, but for active people like ourselves, it became tough to deal with mentally and physically.
+The move has been great for the studio. It really has. Since it coincided with the time I decided to make Weightshift a larger and shared venture, I’ve personally been amazed, humbled and thankful that it’s working out.&lt;/p&gt;
+
+&lt;p&gt;In a more direct manner, we’ve become start-up driven in a way. Most, if not all, of our current clients are start-ups, technology-oriented or creatively-aligned and being here seems to attract that even more so than before. Granted, the work begets the work. It’s a good thing though — we’ve been able to help and shape products, user experiences and brands while they’re small and growing and continue to help them as they mature and become successful. It’s a wonderful experience to be able to form and grow into relationships with these companies. It feels familial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you pursue self-initiated work to supplement down time or slow months? Do you feel that self initiated work can help develop a solid following — from either clients or peers? And further, when doing this work — such as Interhoods or SitBy.Us — how do you go about reaching out to the right people to get it done?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The studio is constantly thinking about internal ideas and as you’ve noted, we’ve produced some of these publicly. There’s a running list of tiny to ambitious ideas that we keep adding to, to see if any keep calling to us to make or develop. Sometimes, it’s about the right opportune moment or when a certain technology or service has matured or is offered to make the initial difficulty now far more realistic. It’s pretty amazing to think that an idea you may have that you shelve because of lack of resources becomes within grasp because someone else out there is offering it as a service or gratis. Our community is generally super-helpful and giving.&lt;/p&gt;
+
+&lt;p&gt;I do feel that it does help — making things for the community does undoubtedly foster goodwill within peers and clients. Though I don’t think we’ve ever executed anything expressly with that purpose. We’re just not that calculated! We do it because we ourselves want to see it out there or because it’s just a cool little thing that could be useful to someone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How does blogging fit into all this? Weightshift maintains a studio blog where you post about a range of topics — personal and professional. Is the blog — from a studio perspective — still a powerful tool for updating your audience and showing your engagement with your profession?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I love writing. I wish I were a hundred times better than I am. I wish the studio wrote more. We traded in quantity for quality though. And given how busy we’ve been, it’s been hard to put words to screen. We’re trying at the moment to write a little more frequently. I’m personally trying to get it into part of the discipline and culture but we also feel a deep commitment to our clients and customer service and so that usually wins out.
+Blogs are still great. I wish more of my favorite people wrote. But I understand why they don’t as well. A lot of the conversation has definitely moved to Twitter and it’s an extremely powerful tool in that respect. The brevity is still refreshing all these years later. I actually think it makes people better writers. I sometimes feel that I can say in 140 characters more than if I rattled away for 800 words. Clear and concise, no?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When starting to reach out to new clients and establishing a relationship, what do you feel is most important to maintain that relationship and present yourself in the best possible way? Is there a perfect balance between personal and professional connections with clients?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Professionalism goes a long way. Being prepared. Staying classy. Patience is indeed a virtue. Communication is EVERYTHING. Respect limits. Respect working hours. It’s business, not personal. Be yourselves. Don’t over share. Be polite. Be respectful. LISTEN. Fight for what you believe. Fight for users. Fight for your clients. Be PRO.&lt;/p&gt;
+
+&lt;p&gt;Somewhere in all of that is the perfect storm of studio, client and audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What have been some of the most rewarding experiences while running your own business? What about some of the scariest?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Most rewarding: seeing work you’ve done have meaningful impact. Seeing work you’ve done get the results they were designed to have. Being able to work with people you admire and respect, whether it’s clients, companies, people in the industry or your friends.&lt;/p&gt;
+
+&lt;p&gt;Scariest: taxes. Going back to the drawing board. Brutal honesty. Admitting you were wrong (but fixing your wrongdoings). Standing up for your work. Firing clients.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are some of the tools and applications that are essential for a small studio?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Insert a list of Apple products here. :)&lt;/p&gt;
+
+&lt;p&gt;In all seriousness, it’s whatever it takes to make work feel less like work. It’s whatever it takes to make communication easy. Make things easy for the studio and your clients. Bring in tools that are best-in-class and help the studio and the client in making the work be the best that it can be. Break down the walls as much as possible.&lt;/p&gt;
+
+&lt;p&gt;Identify the end. Bring whatever means necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To end on a more open-ended note, what’s next for you and Weightshift?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At a low-level, we’re ever-excited at the work we keep doing and the people we get to work with. Outside of immediate client work, we’re hoping to introduce a product this year that we hope will help other studios with streamlining part of the work process. We’ve hinted at it before, where it goes by the internal name of Sleeperhold, and we’re finally starting to see some light at the end of the tunnel for an initial release of that.&lt;/p&gt;
+
+&lt;p&gt;At a high-level, we’d like to continue keeping the quality of work high and the studio culture engaged and interested. That means we turn work down, but it means we’re happy inside and more importantly, outside of work.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Daniel Mall</title>
+   <link href="http://localhost:4000/daniel-mall/"/>
+   <updated>2012-01-01T00:00:00-05:00</updated>
+   <id>http://localhost:4000/daniel-mall</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;First of all, congrats on everything that has happened over this past year! It’s just incredible. Was the decision to go out on your own more difficult with the birth of your daughter Sidda?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks! It was definitely difficult to venture out on my own so quickly after just having a daughter, but it was even more motivating. One of the biggest reasons for starting my own studio is the prospect of being at home more with my wife Emily and daughter Sidda.&lt;/p&gt;
+
+&lt;p&gt;I’ve never been one to shy away from big life changes all at once. Shortly after getting married, I left a great job at Happy Cog and a city I grew up in (Philadelphia) for another great job at Big Spaceship in a city I’ve barely visited (Brooklyn). I’m really blessed to have a wife who’s always up for the newest adventure with me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Your new endeavor has a great statement: “envision and design wondrous places for human connection.” Can you talk a bit more about what it means to build a meaningful experience that makes one feel connected to another?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I think the most successful and authentic brands are ones that make real connections between themselves and their customers, and — even better — between customers themselves. A lot of brands think that good digital advertising is simply broadcasting their own messages through digital channels like Twitter and Facebook, but that’s a really old school mentality.&lt;/p&gt;
+
+&lt;p&gt;As SuperFriendly, I’m really interested in working with brands that are looking to make interesting connections. Digital affords a great opportunity for instantaneous connection, and it’s a shame when brands don’t take advantage of that.&lt;/p&gt;
+
+&lt;p&gt;As an example, one of my favorite connections recently is SPENT, a wonderful site created by friends Nick Jones, Able Parris, Karla Mickens, and others at McKinney. The site allows you to role play as if you were homeless. It’s one of the most engaging experiences I’ve had online in a long time, and I think this kind of emotional connection is really few and far between online nowadays.&lt;/p&gt;
+
+&lt;p&gt;If I can do my part in the work that I do to help create these kinds of experiences, I’ll consider myself very fortunate.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;From a design standpoint, what do you think makes that experience engaging? How does a designer approach addressing that powerful of a message? What do they have to consider?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For me, engaging experiences are all about people and the powerful connections made between them. Cave painters, musicians, marketplace vendors, and countless historical professionals have know that for centuries; we’re getting good at figuring out what that means in pixels, but our medium is still so new that we still have a lot of room for exploration. As designers, it’s easy to get so caught up in the craft — choosing the right typeface, color scheme, markup — that we sometimes miss that small moments that create the whole experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What experiences from Happy Cog and Big Spaceship will you reflect upon and use in your new endeavor? For instance, we all suffer from burnout from time to time. How did you handle burnout back then and how do you handle it now?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve always strived for a 40-hour work week. Sometimes that’s not possible, but I try my darnedest to make it happen. I think it’s easy to believe that throwing more time at a problem will birth a solution, but I’ve found that some of the work I’m most proud of has come from the fact that there was no time available. For me, burnout happens when something in my life goes out of balance. If I’m working too much, then I’m doing something else too little, like spending time with family or rehearsing with my band. Avoiding burnout means maintaining the balance I’ve established and not allowing one thing to dominate my time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I have to agree that spending too much time on a project can definitely turn into a burden. I also believe that striving for perfection falls into that same camp, but coming to terms with imperfection in our design work is often easier said than done. What are your thoughts on chasing the perfect in our work?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a small distinction, but I prefer to strive for perfection in order to achieve excellence. Maybe it comes from my Christian perspective, but the idea that we humans can create anything free of flaws is a difficult notion to stomach. I do believe that it’s important to do the best job that we can for our clients and for ourselves. I think that’s a worthy standard.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You mention that rehearsing with your band helps to alleviate a bit of burnout. Is it simply the act of stepping away from your profession that helps, or is it engaging in another creative outlet? Perhaps both? Have you ever considered taking an extended hiatus from design?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wow, interesting question. I’ve never seriously considered taking a sabbatical, both because I love what I do and it’s a way I can provide for my family. During a Q&amp;amp;A session at a conference, a student asked me what I do to overcome creative block. Completely unprepared for that question, I tried to answer honestly and was actually surprised as what I said. I said I don’t believe in creative block. Huh.&lt;/p&gt;
+
+&lt;p&gt;I’ll caveat that. Our industry (and related ones) often herald the powers of “the creatives” as divine inspiration waiting to be channelled, like we sit around waiting for a moment of eureka! Pfft. I don’t know about anyone else, but design is hard work for me. Creative block definitely happens, but it needs to be worked through. Take a break, get some water, read a book… then sit your butt back down at your desk and get to work! For me, conquering creative block is about encouraging and creating multiple failures to create success.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When taking on new clients — how do approach educating them about how a creative project unfolds? Demystify it in a manner of speaking. Do you find that clients like to know about the various phases of a project and what’s involved in each?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I prefer to think of client education in terms of collaboration. I don’t have a typical process. Sure, there are things I gravitate towards, but they’re more like weapons in my arsenal as opposed to steps I follow every time. For every new client at SuperFriendly, part of our first conversation is to tell them that we don’t have a process that we make every client go through. We have a framework, a list of possibilities for what we might do, but we really love working directly with our clients to figure out the best process for that particular team. On some projects, wireframes are exactly what’s needed; on others, we shun them completely. Some projects start with visual design; others start by diving right into HTML prototypes. I think it’s unfair to blindly try and mold clients into a process. I’d much rather create the right circumstances to make my team and theirs more successful.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’m always fascinated about the stories behind starting one’s own business or leaving a job to start a studio. Do you mind talking about what led up to you taking the plunge? Had you been considering the move for a while or did a series of events present themselves that just made the decision easy?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;My daughter was really the motivation for going out on my own. I remember leaving the house one day for work when Sidda was about 2 or 3 months old. When I got home that night, she looked directly at me, a skill (focusing and following one specific thing) she had seemingly developed that day. I asked my wife when she had learned that, but, being a stay-at-home mom, it was something she had noticed for a while already. I realized I was missing things about my daughter’s life, and I didn’t want that to happen anymore. I started to look for ways that I could work from home so I could be around for Sidda as she grew.&lt;/p&gt;
+
+&lt;p&gt;Visiting home for the holidays, we mentioned to my parents that we were thinking about moving back to Philadelphia to be closer to family. My dad mentioned that he still owned some property from a personal care home he and my mom ran before my grandparents passed away. He offered us the property, an old 3000 sq. ft church-turned-house. It was more than enough space for us to live and even had some potential for me to create some studio space if I needed it. The idea for SuperFriendly was born that day.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For those considering venturing out on there own, what are the top five things they should do first?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyone’s different so what works for one might not work for others, but here are a few things that worked for me:&lt;/p&gt;
+
+&lt;p&gt;Prototype your business. As designers and developers, we love to prototype; it’s in our nature and our work is made better for it. But it baffles me when we don’t take that approach to other aspects. I knew that I’d someday run my own business. For one year, I prototyped that business: I worked a full time job, came home to eat dinner, then worked another full-time job moonlighting. It was a decision that Emily and I made together, knowing that the sacrifices would be worth the effort. Knowing that I had a full-time salary to rely on gave me tremendous liberty to experiment with how I would bill and charge, the way I liked to work, and what things would make me most successful. When the opportunity presented itself to finally start that business, I was ready. Day one to the world was actually year one. Hire people that whose talents offset your weaknesses. My project manager, CPA firm, and lawyer help me take care of things I don’t do well but have been crucial for me to run a successful business.&lt;/p&gt;
+
+&lt;p&gt;Decide whether you’re a freelancer or a design business owner. Both have their pros and cons. Freelancers have the advantage of being scrappy but give off the connotation of always burning the midnight oil and having discounted prices. Being a design business owner can be more lucrative and earn you bigger projects, but it often means more administrative tasks and being more strict about your business operations.&lt;/p&gt;
+
+&lt;p&gt;Fail on someone else’s dime. If you’re a student or new to the design field, I highly recommend getting some experience working for an established studio before venturing out on your own. Gain a wide variety of experiences for how business runs. See what things you like about how others start run their businesses, and be critical about the things you would change if you ran your own. It’s much less costly to learn from others’ mistakes and victories.&lt;/p&gt;
+
+&lt;p&gt;Do work you enjoy. While I’ve always maintained a hybrid skillset of both designing and coding, I found very quickly that there’s a point where coding sucks the life out of me. By recognizing that and hiring people that are good/enjoy it instead of trudging through myself, I find that I have more satisfaction in my work, and I can really focus on attract work that I love to do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Each new year brings with it new opportunities. Many look at the start of the new year as a chance to shed old skin, start new habits, and outline overly-ambitious goals. What are you most looking forward to in 2013 and what do you want to accomplish in the next 12 months?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lots! I’ve got a whole range of things to accomplish this year, both professional and personal (I’ll likely turn it into a blog post eventually). It ranges from finding more time for myself and my family, eliminating student loans, getting an better bed, traveling more, building a product that’s been on my mind for the last few years, more date nights with my wife, planning a conference, learning to swim, and lots more!&lt;/p&gt;
 </content>
  </entry>
  
