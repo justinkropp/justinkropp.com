@@ -27,7 +27,7 @@ github:
   repo:              https://github.com/justinkropp/justinkropp
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 

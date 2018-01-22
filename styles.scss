@@ -197,12 +197,13 @@ figure.full {
     flex: 1;
     max-width: calc(960px + 4em);
     margin: auto;
-    padding: 2em;
+    padding: 2.75em 2em;
   }
 
   .footer {
     padding: 2em;
     border-top: 1px solid $lt-gray;
+    background: rgba($black, 0.025);
     .content {
       display: flex;
       max-width: 960px;
@@ -224,6 +225,7 @@ figure.full {
   .masthead {
     padding: 4em 2em;
     border-bottom: 1px solid $lt-gray;
+    background: rgba($black, 0.025);
     .content {
       max-width: 960px;
       margin: auto;
@@ -231,12 +233,14 @@ figure.full {
         float: left;
         width: 50%;
         font-family: 'NationalMedium';
+        line-height: 1;
       }
       nav {
         float: left;
         width: 50%;
         a {
           margin: 0 1em 0 0;
+          line-height: 1;
         }
       }
       p {
@@ -244,6 +248,22 @@ figure.full {
         width: 50%;
         margin: 2em 0 0 0;
         line-height: 1.5;
+      }
+    }
+  }
+
+  .home-statement {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    padding: 2.75em 2em;
+    background: $white;
+    .statement {
+      max-width: 960px;
+      margin: auto;
+      p {
+        margin: 0;
+        font-size: 2rem;
       }
     }
   }
