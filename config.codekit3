@@ -7,733 +7,56 @@
 		"uuidString": "BC2D7A80-2C14-45F4-AD2E-14BC071D4A7C"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26330",
 "files": {
 	"\/404.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/_config.yml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/_config.yml",
-		"oF": 0
-		},
-	"\/_includes\/footer.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/footer.html",
-		"oF": 0
-		},
-	"\/_includes\/head.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/head.html",
-		"oF": 0
-		},
-	"\/_includes\/header.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/header.html",
-		"oF": 0
-		},
-	"\/_includes\/home-header.html": {
+	"\/browserconfig.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_includes\/home-header.html",
+		"oAP": "\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/_layouts\/archive.html": {
-		"cB": 0,
-		"ft": 8192,
+	"\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "\/_layouts\/archive.html",
-		"oF": 0
-		},
-	"\/_layouts\/default.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/default.html",
-		"oF": 0
-		},
-	"\/_layouts\/home.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/home.html",
-		"oF": 0
-		},
-	"\/_layouts\/page.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/page.html",
-		"oF": 0
-		},
-	"\/_layouts\/post.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/post.html",
-		"oF": 0
-		},
-	"\/_layouts\/projects.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_layouts\/projects.html",
-		"oF": 0
-		},
-	"\/_posts\/2012-01-01-daniel-mall.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2012-01-01-daniel-mall.html",
+		"oAP": "\/css\/main-min.css",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"oS": 3
 		},
-	"\/_posts\/2012-02-01-naz-hamid.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2012-02-01-naz-hamid.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2016-01-01-beyond-familiar.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2016-01-01-beyond-familiar.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2016-01-02-example-content.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2016-01-02-example-content.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2016-03-01-rob-giampietro.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2016-03-01-rob-giampietro.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2016-03-09-joe-stewart.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2016-03-09-joe-stewart.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2017-05-20-alone-at-my-desk.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2017-05-20-alone-at-my-desk.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2017-05-24-what-is-a-designer.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2017-05-24-what-is-a-designer.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2017-11-10-reorienting-my-practice.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2017-11-10-reorienting-my-practice.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2017-12-01-tackling-proficiency.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2017-12-01-tackling-proficiency.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2017-12-05-thrive.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2017-12-05-thrive.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2017-12-09-readmill.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2017-12-09-readmill.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_posts\/2017-12-09-wordpress.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_posts\/2017-12-09-wordpress.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_sass\/_base.scss": {
+	"\/css\/main.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_base.css",
+		"oA": 0,
+		"oAP": "\/css\/main.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/_sass\/_code.scss": {
-		"aP": 0,
+	"\/css\/normalize.css": {
+		"aP": 1,
 		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
+		"ft": 16,
 		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_code.css",
+		"oA": 0,
+		"oAP": "\/css\/normalize-min.css",
 		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oS": 3
 		},
-	"\/_sass\/_layout.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_layout.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/_masthead.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_masthead.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/_message.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_message.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/_pagination.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_pagination.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/_posts.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_posts.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/_syntax.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_syntax.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/_type.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_type.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_sass\/_variables.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/_sass\/_variables.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_site\/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/404.html",
-		"oF": 0
-		},
-	"\/_site\/about\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/about\/index.html",
-		"oF": 0
-		},
-	"\/_site\/alone-at-my-desk\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/alone-at-my-desk\/index.html",
-		"oF": 0
-		},
-	"\/_site\/assets\/FoundersGroteskWeb-Bold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/FoundersGroteskWeb-Bold.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/FoundersGroteskWeb-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/FoundersGroteskWeb-Bold.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/FoundersGroteskWeb-Regular.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/FoundersGroteskWeb-Regular.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/FoundersGroteskWeb-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/FoundersGroteskWeb-Regular.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/National2Test-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/National2Test-Bold.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/National2Test-Medium.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/National2Test-Medium.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/National2Test-MediumItalic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/National2Test-MediumItalic.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/National2Test-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/National2Test-Regular.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/National2Test-RegularItalic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/National2Test-RegularItalic.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaSansScWebPro.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/ScalaSansScWebPro.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaSansScWebPro.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/ScalaSansScWebPro.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaSansWebPro.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/ScalaSansWebPro.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaSansWebPro.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/ScalaSansWebPro.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaScWeb-Bold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaScWeb-Bold.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaScWeb-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaScWeb-Bold.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaScWeb.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaScWeb.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaScWeb.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaScWeb.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb-Bold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb-Bold.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb-Bold.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb-BoldIta.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb-BoldIta.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb-BoldIta.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb-BoldIta.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb-Ita.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb-Ita.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb-Ita.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb-Ita.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/ScalaWeb.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/ScalaWeb.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/UntitledSansTest-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/UntitledSansTest-Bold.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/UntitledSansTest-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/UntitledSansTest-Regular.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/UntitledSansTest-RegularItalic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/UntitledSansTest-RegularItalic.woff",
-		"oF": 0
-		},
-	"\/_site\/atom.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/atom.xml",
-		"oF": 0
-		},
-	"\/_site\/beyond-familiar\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/beyond-familiar\/index.html",
-		"oF": 0
-		},
-	"\/_site\/categories\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/categories\/index.html",
-		"oF": 0
-		},
-	"\/_site\/daniel-mall\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/daniel-mall\/index.html",
-		"oF": 0
-		},
-	"\/_site\/example-content\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/example-content\/index.html",
-		"oF": 0
-		},
-	"\/_site\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/index.html",
-		"oF": 0
-		},
-	"\/_site\/joe-stewart\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/joe-stewart\/index.html",
-		"oF": 0
-		},
-	"\/_site\/js\/main.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/js\/main-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/LICENSE.md": {
+	"\/doc\/css.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -742,7 +65,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/_site\/LICENSE.html",
+		"oAP": "\/doc\/css.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -751,343 +74,168 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/_site\/naz-hamid\/index.html": {
+	"\/doc\/extend.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/doc\/extend.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/doc\/faq.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/doc\/faq.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/doc\/html.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/doc\/html.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/doc\/js.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/doc\/js.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/doc\/misc.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/doc\/misc.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/doc\/TOC.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/doc\/TOC.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/doc\/usage.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/doc\/usage.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/naz-hamid\/index.html",
+		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
-	"\/_site\/projects\/index.html": {
+	"\/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/projects\/index.html",
+		"oAP": "\/humans.txt",
 		"oF": 0
 		},
-	"\/_site\/public\/apple-touch-icon-precomposed.png": {
+	"\/icon.png": {
 		"ft": 32768,
-		"iS": 1430,
+		"iS": 4029,
 		"oA": 0,
-		"oAP": "\/_site\/public\/apple-touch-icon-precomposed.png",
+		"oAP": "\/icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/_site\/public\/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/public\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_site\/README.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_site\/readmill\/index.html": {
+	"\/img\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/_site\/readmill\/index.html",
-		"oF": 0
-		},
-	"\/_site\/reorienting-my-practice\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/reorienting-my-practice\/index.html",
-		"oF": 0
-		},
-	"\/_site\/rob-giampietro\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/rob-giampietro\/index.html",
-		"oF": 0
-		},
-	"\/_site\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/styles-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/_site\/tackling-proficiency\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/tackling-proficiency\/index.html",
-		"oF": 0
-		},
-	"\/_site\/thrive\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/thrive\/index.html",
-		"oF": 0
-		},
-	"\/_site\/what-is-a-designer\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/what-is-a-designer\/index.html",
-		"oF": 0
-		},
-	"\/_site\/wordpress\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/wordpress\/index.html",
-		"oF": 0
-		},
-	"\/_site\/writing\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/_site\/writing\/index.html",
-		"oF": 0
-		},
-	"\/about.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/about.html",
-		"oF": 0
-		},
-	"\/assets\/FoundersGroteskWeb-Bold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/FoundersGroteskWeb-Bold.eot",
-		"oF": 0
-		},
-	"\/assets\/FoundersGroteskWeb-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/FoundersGroteskWeb-Bold.woff",
-		"oF": 0
-		},
-	"\/assets\/FoundersGroteskWeb-Regular.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/FoundersGroteskWeb-Regular.eot",
-		"oF": 0
-		},
-	"\/assets\/FoundersGroteskWeb-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/FoundersGroteskWeb-Regular.woff",
-		"oF": 0
-		},
-	"\/assets\/National2Test-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/National2Test-Bold.woff",
-		"oF": 0
-		},
-	"\/assets\/National2Test-Medium.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/National2Test-Medium.woff",
-		"oF": 0
-		},
-	"\/assets\/National2Test-MediumItalic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/National2Test-MediumItalic.woff",
-		"oF": 0
-		},
-	"\/assets\/National2Test-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/National2Test-Regular.woff",
-		"oF": 0
-		},
-	"\/assets\/National2Test-RegularItalic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/National2Test-RegularItalic.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaSansScWebPro.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/ScalaSansScWebPro.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaSansScWebPro.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/ScalaSansScWebPro.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaSansWebPro.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/ScalaSansWebPro.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaSansWebPro.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/ScalaSansWebPro.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaScWeb-Bold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaScWeb-Bold.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaScWeb-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaScWeb-Bold.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaScWeb.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaScWeb.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaScWeb.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaScWeb.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb-Bold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb-Bold.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb-Bold.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb-BoldIta.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb-BoldIta.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb-BoldIta.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb-BoldIta.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb-Ita.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb-Ita.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb-Ita.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb-Ita.woff",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb.eot",
-		"oF": 0
-		},
-	"\/assets\/ScalaWeb.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/ScalaWeb.woff",
-		"oF": 0
-		},
-	"\/assets\/UntitledSansTest-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/UntitledSansTest-Bold.woff",
-		"oF": 0
-		},
-	"\/assets\/UntitledSansTest-Regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/UntitledSansTest-Regular.woff",
-		"oF": 0
-		},
-	"\/assets\/UntitledSansTest-RegularItalic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/UntitledSansTest-RegularItalic.woff",
-		"oF": 0
-		},
-	"\/atom.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/atom.xml",
-		"oF": 0
-		},
-	"\/categories.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/categories.html",
+		"oAP": "\/img\/.gitignore",
 		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
@@ -1101,86 +249,78 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/LICENSE.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
+	"\/js\/plugins.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
-		"oAP": "\/LICENSE.html",
+		"oAP": "\/js\/plugins-min.js",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+		"sC": 1,
+		"tS": 0
 		},
-	"\/projects.html": {
+	"\/js\/vendor\/jquery-3.2.1.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/jquery-3.2.1.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/vendor\/modernizr-3.5.0.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/vendor\/modernizr-3.5.0.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/LICENSE.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/projects.html",
+		"oAP": "\/LICENSE.txt",
 		"oF": 0
 		},
-	"\/public\/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 1430,
+	"\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/apple-touch-icon-precomposed.png",
+		"oAP": "\/robots.txt",
+		"oF": 0
+		},
+	"\/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site.webmanifest",
+		"oF": 0
+		},
+	"\/tile-wide.png": {
+		"ft": 32768,
+		"iS": 1854,
+		"oA": 0,
+		"oAP": "\/tile-wide.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/public\/favicon.ico",
-		"oF": 0
-		},
-	"\/README.md": {
-		"cB": 0,
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
+	"\/tile.png": {
+		"ft": 32768,
+		"iS": 3482,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "\/tile.png",
 		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/styles.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/styles.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/writing.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/writing.html",
-		"oF": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -1200,6 +340,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
