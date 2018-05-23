@@ -7,7 +7,7 @@
 		"uuidString": "BC2D7A80-2C14-45F4-AD2E-14BC071D4A7C"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/CNAME": {
 		"cB": 0,
@@ -105,7 +105,8 @@
 	"creationDate": 514396449,
 	"displayValue": "justinkropp",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/apple-touch-icon.png",
+	"iconImageName": "meme-daenerys",
+	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 514521591
 	},
 "projectSettings": {
@@ -1909,6 +1910,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
