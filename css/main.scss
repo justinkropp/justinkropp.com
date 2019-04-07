@@ -1,7 +1,7 @@
 // Variables
 
-$black: rgba(25, 25, 25, 1.0);
-$gray: rgba(220, 220, 213, 1.0);
+$black: rgba(0, 0, 0, 1.0);
+$gray: rgba(0, 0, 0, 0.5);
 $white: rgba(255, 255, 255, 1.0);
 
 // Essentials
@@ -18,177 +18,77 @@ $white: rgba(255, 255, 255, 1.0);
 html,
 body {
   height: 100%;
+  font-family: Helvetica Neue, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
 }
 
 body {
   height: 100%;
+  background: $gray;
 }
 
 // Typography
 
 h1, h2, h3 {
   margin: 0;
-  font-family: "franklin-gothic-urw-1","franklin-gothic-urw-2";
+  font-family: Helvetica Neue, Helvetica, sans-serif;
+  font-weight: 600;
   font-size: 1rem;
-  font-weight: 500;
+  color: rgba($white, 0.75);
 }
 
 p {
-  margin: 0;
-  font-family: "franklin-gothic-urw-1","franklin-gothic-urw-2";
+  margin: 0 0 2em 0;
   font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgba($white, 0.75);
   }
 
-blockquote  {
-  margin: 0;
-  p {
-    font-family: "bodoni-urw-1","bodoni-urw-2";
-    font-size: 1rem;
-    }
-  }
+a {
+  color: rgba($white, 0.75);
+  text-decoration: none;
+  border-bottom: 1px solid rgba($white, 0.25);
+}
 
-  a {
-    color: $black;
-    font-weight: 500;
-    text-decoration: none;
-    border-bottom: 2px solid rgba($black, 0.0);
-    transition: all .2s ease;
-    &:hover {
-      border-bottom: 2px solid rgba($black, 1.0);
-    }
-  }
-
-// Composition
+// Page Composition
 
 .wrapper {
+  height: 100vh;
   display: flex;
   flex-direction: row;
-  width: 100%;
-  min-height: 100%;
-}
-
-header {
-  width: 100%;
-  padding: 6em;
-}
-
-.content {
-  height: 100%;
-  padding: 6em;
-}
-
-footer {
-  margin: 0 6em 6em 6em;
-  nav {
-    a {
-      margin: 0 1em 0 0;
-      font-family: "franklin-gothic-urw-1","franklin-gothic-urw-2";
-      font-size: 18px;
-      color: $black;
-      text-decoration: none;
+  .col {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    .row {
+      height: 100%;
     }
   }
-}
-
-.introduction {
-  display: flex;
-  flex-direction: column;
-  width: 45%;
-  background: rgba($black, 0.9);
-  h1 {
-    color: $white;
-    font-size: 18px;
-  }
-  blockquote {
-    p {
-      font-size: 36px;
-      line-height: 45px;
-      font-weight: 300;
-      color: $white;
-    }
-    p.source {
-      margin: 1em 0 0 0;
-      font-family: "franklin-gothic-urw-1","franklin-gothic-urw-2";
-      font-size: 18px;
-      color: rgba($white, 0.5);
-    }
-  }
-}
-
-.profile {
-  display: flex;
-  flex-direction: column;
-  align-content: stretch;
-  width: 55%;
-  background: rgba($gray, 1.0);
-  header {
-    background: $white;
+  .intro {
+    padding: 5em;
+    background: rgba($black, 0.8);
     h2 {
-      color: $black;
-      font-size: 18px;
+      margin: 0 0 1em 0;
+    }
+    p {
     }
   }
-  p {
-    margin: 0 0 1em 0;
-    font-size: 18px;
-    line-height: 27px;
-    &:last-child {
-      margin: 0;
-    }
+  .name {
+    padding: 5em;
+    background: rgba($black, 0.75);
+  }
+  .role {
+    padding: 5em;
+    background: rgba($black, 0.70);
   }
 }
 
 @media (max-width: 420px) {
 
-  .wrapper {
-    display: flex;
-    flex-direction: column;
-  }
-
-  header {
-    padding: 20px;
-  }
-
-  .content {
-    padding: 20px;
-  }
-
-  footer {
-    margin: 20px;
-    padding: 20px 0 0 0;
-    border-top: 1px solid rgba($black, 0.25);
-  }
-
-  .introduction,
-  .profile {
-    width: 100%;
-  }
-
-  .introduction {
-    blockquote {
-      p {
-        margin: 0;
-        font-size: 27px;
-        line-height: 1.5;
-      }
-    }
-  }
 }
 
 @media (max-width: 800px) {
-
-  header {
-    padding: 2em;
-  }
-
-  .content {
-    padding: 2em;
-  }
-
-  footer {
-    margin: 2em;
-  }
 
 }
