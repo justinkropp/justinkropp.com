@@ -1,94 +1,58 @@
-// Variables
-
-$black: rgba(0, 0, 0, 1.0);
-$gray: rgba(0, 0, 0, 0.5);
-$white: rgba(255, 255, 255, 1.0);
-
-// Essentials
-
-
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  -moz-osx-font-smoothing: grayscale; }
 
 html,
 body {
   height: 100%;
   font-family: Helvetica Neue, Helvetica, sans-serif;
   margin: 0;
-  padding: 0;
-}
+  padding: 0; }
 
 body {
   height: 100%;
-  background: $gray;
-}
-
-// Typography
+  background: rgba(0, 0, 0, 0.5); }
 
 h1, h2, h3 {
   margin: 0;
   font-family: Helvetica Neue, Helvetica, sans-serif;
   font-weight: 600;
   font-size: 1rem;
-  color: rgba($white, 0.75);
-}
+  color: rgba(255, 255, 255, 0.75); }
 
 p {
   margin: 0 0 2em 0;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: rgba($white, 0.75);
-  }
+  color: rgba(255, 255, 255, 0.75); }
 
 a {
-  color: rgba($white, 0.75);
+  color: rgba(255, 255, 255, 0.75);
   text-decoration: none;
-  border-bottom: 1px solid rgba($white, 0.25);
-}
-
-// Page Composition
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25); }
 
 .wrapper {
   height: 100vh;
   display: flex;
-  flex-direction: row;
-  .col {
+  flex-direction: row; }
+  .wrapper .col {
     display: flex;
     flex-direction: column;
-    width: 50%;
-    .row {
-      height: 100%;
-    }
-  }
-  .intro {
+    width: 50%; }
+    .wrapper .col .row {
+      height: 100%; }
+  .wrapper .intro {
     padding: 5em;
-    background: rgba($black, 0.8);
-    h2 {
-      margin: 0 0 1em 0;
-    }
-    p {
-    }
-  }
-  .name {
+    background: rgba(0, 0, 0, 0.8); }
+    .wrapper .intro h2 {
+      margin: 0 0 1em 0; }
+  .wrapper .name {
     padding: 5em;
-    background: rgba($black, 0.75);
-  }
-  .role {
+    background: rgba(0, 0, 0, 0.75); }
+  .wrapper .role {
     padding: 5em;
-    background: rgba($black, 0.70);
-  }
-}
-
-@media (max-width: 420px) {
-
-}
-
-@media (max-width: 800px) {
-
-}
+    background: rgba(0, 0, 0, 0.7); }

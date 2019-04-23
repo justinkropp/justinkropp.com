@@ -39,20 +39,26 @@ a {
   height: 100vh;
   display: flex;
   flex-direction: row; }
-  .wrapper .col {
-    display: flex;
-    flex-direction: column;
-    width: 50%; }
-    .wrapper .col .row {
-      height: 100%; }
-  .wrapper .intro {
-    padding: 5em;
-    background: rgba(0, 0, 0, 0.8); }
-    .wrapper .intro h2 {
-      margin: 0 0 1em 0; }
-  .wrapper .name {
-    padding: 5em;
-    background: rgba(0, 0, 0, 0.75); }
-  .wrapper .role {
-    padding: 5em;
-    background: rgba(0, 0, 0, 0.7); }
+
+.wrapper .col {
+  display: flex;
+  flex-direction: column;
+  width: 50%; }
+
+.wrapper .col .row {
+  height: 100%; }
+
+.wrapper .intro {
+  padding: 5em;
+  background: rgba(0, 0, 0, 0.8); }
+
+.wrapper .intro h2 {
+  margin: 0 0 1em 0; }
+
+.wrapper .name {
+  padding: 5em;
+  background: rgba(0, 0, 0, 0.75); }
+
+.wrapper .role {
+  padding: 5em;
+  background: rgba(0, 0, 0, 0.7); }

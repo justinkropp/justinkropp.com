@@ -9,28 +9,36 @@
 	],
 "creatorBuild": "29156",
 "files": {
-	"/assets/PitchTest-Bold.woff": {
+	"/assets/UntitledSansTest-Light.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/PitchTest-Bold.woff",
+		"oAP": "/assets/UntitledSansTest-Light.woff",
 		"oF": 0
 		},
-	"/assets/PitchTest-Regular.woff": {
+	"/assets/UntitledSansTest-LightItalic.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/PitchTest-Regular.woff",
+		"oAP": "/assets/UntitledSansTest-LightItalic.woff",
 		"oF": 0
 		},
-	"/assets/PitchTest-Semibold.woff": {
+	"/assets/UntitledSansTest-Regular.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/PitchTest-Semibold.woff",
+		"oAP": "/assets/UntitledSansTest-Regular.woff",
+		"oF": 0
+		},
+	"/assets/UntitledSansTest-RegularItalic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/UntitledSansTest-RegularItalic.woff",
 		"oF": 0
 		},
 	"/CNAME": {
