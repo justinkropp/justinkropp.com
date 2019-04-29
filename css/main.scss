@@ -35,21 +35,50 @@ body {
   font-family: 'UntitledSans-Regular', sans-serif;
 }
 
-body {
-  height: 100%;
-  border: 2px solid red;
-}
-
 // Typography
 
 h1, h2, h3, h4 {
+  font-size: 18px;
+  line-height: 32px;
   font-family: 'UntitledSans-Light', sans-serif;
 }
 
-p {
+p, li, dl {
+  font-size: 18px;
+  line-height: 32px;
   font-family: 'UntitledSans-Regular', sans-serif;
 }
 
+// Page Composition
+
+.wrapper {
+  max-width: 120em;
+  width: 90%;
+  margin: auto;
+  border: 1px solid red;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.header {
+  background: orange;
+}
+
+.footer {
+  background: orange;
+}
+
+section {
+  width: 70%;
+  margin: 0 auto;
+  background: pink;
+}
+
+// Mobile Views
 
 @media (max-width: 420px) {
 
