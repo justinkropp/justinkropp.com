@@ -31,23 +31,28 @@ p, li, dl {
   font-family: 'UntitledSans-Regular', sans-serif; }
 
 .wrapper {
-  max-width: 120em;
+  max-width: 50em;
   width: 90%;
-  margin: auto;
-  border: 1px solid red; }
+  margin: auto; }
 
 .container {
   display: flex;
   flex-direction: column;
   width: 100%; }
 
+section {
+  width: 100%; }
+
 .header {
-  background: orange; }
+  width: 100%;
+  margin: 112px 0; }
 
 .footer {
   background: orange; }
 
-section {
-  width: 70%;
-  margin: 0 auto;
-  background: pink; }
+.intro {
+  margin: 0 0 112px 0; }
+  .intro p {
+    font-family: 'UntitledSans-Light', Helvetica;
+    font-size: 32px;
+    line-height: 52px; }
