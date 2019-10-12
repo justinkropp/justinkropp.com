@@ -9,6 +9,28 @@
 	],
 "creatorBuild": "31491",
 "files": {
+	"/assets/iphone-fpo.png": {
+		"ft": 32768,
+		"iS": 118523,
+		"oA": 0,
+		"oAP": "/assets/iphone-fpo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/macbook-fpo.png": {
+		"ft": 32768,
+		"iS": 240256,
+		"oA": 0,
+		"oAP": "/assets/macbook-fpo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/PitchTest-Medium.woff": {
 		"cB": 0,
 		"ft": 8192,

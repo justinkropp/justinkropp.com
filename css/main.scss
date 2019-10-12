@@ -217,6 +217,21 @@ footer.footer {
   }
 }
 
+// Profile
+
+.bio {
+  display: flex;
+  flex-flow: row wrap;
+  h3 {
+    margin: 2em 0 1em 0;
+    font-size: 27px;
+  }
+  ul {
+    width: 50%;
+    margin: 1em 0 0 0;
+  }
+}
+
 // Mobile Views
 
 @media (max-width: 420px) {
