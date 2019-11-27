@@ -1,58 +1,95 @@
+@font-face {
+  font-family: 'Scala';
+  src:  url('/assets/ScalaWeb.eot') format('eot'),
+        url('/assets/ScalaWeb.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ScalaSc';
+  src:  url('/assets/ScalaScWeb.eot') format('eot'),
+        url('/assets/ScalaScWeb.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Scala-Bold';
+  src:  url('/assets/ScalaWeb-Bold.eot') format('eot'),
+        url('/assets/ScalaWeb-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'ScalaSans';
+  src:  url('/assets/ScalaSansWebPro.eot') format('eot'),
+        url('/assets/ScalaSansWebPro.woff') format('woff');
+}
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
+  -moz-osx-font-smoothing: grayscale;
+}
 
 html,
 body {
   height: 100%;
-  font-family: Helvetica Neue, Helvetica, sans-serif;
+  font-family: 'ScalaSans', Helvetica Neue, Helvetica, sans-serif;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 body {
   height: 100%;
-  background: rgba(0, 0, 0, 0.5); }
+  background: rgba(255, 255, 255, 1.0);
+}
 
 h1, h2, h3 {
   margin: 0;
-  font-family: Helvetica Neue, Helvetica, sans-serif;
+  font-family: 'ScalaSans', Helvetica Neue, Helvetica, sans-serif;
   font-weight: 600;
   font-size: 1rem;
-  color: rgba(255, 255, 255, 0.75); }
+  color: rgba(0, 0, 0, 0.80);
+}
 
 p {
   margin: 0 0 2em 0;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: rgba(255, 255, 255, 0.75); }
+  color: rgba(0, 0, 0, 0.80);
+}
 
 a {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(0, 0, 0, 0.80);
   text-decoration: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.25); }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.80);
+}
 
 .wrapper {
   height: 100vh;
   display: flex;
-  flex-direction: row; }
-  .wrapper .col {
-    display: flex;
-    flex-direction: column;
-    width: 50%; }
-    .wrapper .col .row {
-      height: 100%; }
-  .wrapper .intro {
-    padding: 5em;
-    background: rgba(0, 0, 0, 0.8); }
-    .wrapper .intro h2 {
-      margin: 0 0 1em 0; }
-  .wrapper .name {
-    padding: 5em;
-    background: rgba(0, 0, 0, 0.75); }
-  .wrapper .role {
-    padding: 5em;
-    background: rgba(0, 0, 0, 0.7); }
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.block {
+  width: 50%;
+  height: 50%;
+  padding: 2em;
+}
+
+.mugshot {
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.name {
+  background: rgba(0, 0, 0, 0.10);
+}
+
+.intro {
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.role {
+  background: rgba(0, 0, 0, 0.14);
+}
