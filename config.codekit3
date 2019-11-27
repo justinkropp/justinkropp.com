@@ -9,22 +9,6 @@
 	],
 "creatorBuild": "31934",
 "files": {
-	"/assets/ScalaSansScWebPro.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaSansScWebPro.eot",
-		"oF": 0
-		},
-	"/assets/ScalaSansScWebPro.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaSansScWebPro.woff",
-		"oF": 0
-		},
 	"/assets/ScalaSansWebPro.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -41,132 +25,36 @@
 		"oAP": "/assets/ScalaSansWebPro.woff",
 		"oF": 0
 		},
-	"/assets/ScalaScWeb-Bold.eot": {
+	"/assets/soehne-test-buch-kursiv.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/ScalaScWeb-Bold.eot",
+		"oAP": "/assets/soehne-test-buch-kursiv.woff",
 		"oF": 0
 		},
-	"/assets/ScalaScWeb-Bold.woff": {
+	"/assets/soehne-test-buch.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/ScalaScWeb-Bold.woff",
+		"oAP": "/assets/soehne-test-buch.woff",
 		"oF": 0
 		},
-	"/assets/ScalaScWeb-BoldIta.eot": {
+	"/assets/soehne-test-leicht-kursiv.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/ScalaScWeb-BoldIta.eot",
+		"oAP": "/assets/soehne-test-leicht-kursiv.woff",
 		"oF": 0
 		},
-	"/assets/ScalaScWeb-BoldIta.woff": {
+	"/assets/soehne-test-leicht.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/assets/ScalaScWeb-BoldIta.woff",
-		"oF": 0
-		},
-	"/assets/ScalaScWeb-Ita.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaScWeb-Ita.eot",
-		"oF": 0
-		},
-	"/assets/ScalaScWeb-Ita.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaScWeb-Ita.woff",
-		"oF": 0
-		},
-	"/assets/ScalaScWeb.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaScWeb.eot",
-		"oF": 0
-		},
-	"/assets/ScalaScWeb.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaScWeb.woff",
-		"oF": 0
-		},
-	"/assets/ScalaWeb-Bold.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb-Bold.eot",
-		"oF": 0
-		},
-	"/assets/ScalaWeb-Bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb-Bold.woff",
-		"oF": 0
-		},
-	"/assets/ScalaWeb-BoldIta.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb-BoldIta.eot",
-		"oF": 0
-		},
-	"/assets/ScalaWeb-BoldIta.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb-BoldIta.woff",
-		"oF": 0
-		},
-	"/assets/ScalaWeb-Ita.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb-Ita.eot",
-		"oF": 0
-		},
-	"/assets/ScalaWeb-Ita.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb-Ita.woff",
-		"oF": 0
-		},
-	"/assets/ScalaWeb.eot": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb.eot",
-		"oF": 0
-		},
-	"/assets/ScalaWeb.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/ScalaWeb.woff",
+		"oAP": "/assets/soehne-test-leicht.woff",
 		"oF": 0
 		},
 	"/CNAME": {

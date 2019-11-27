@@ -1,16 +1,4 @@
 @font-face {
-  font-family: 'Scala';
-  src: url("/assets/ScalaWeb.eot") format("eot"), url("/assets/ScalaWeb.woff") format("woff"); }
-
-@font-face {
-  font-family: 'ScalaSc';
-  src: url("/assets/ScalaScWeb.eot") format("eot"), url("/assets/ScalaScWeb.woff") format("woff"); }
-
-@font-face {
-  font-family: 'Scala-Bold';
-  src: url("/assets/ScalaWeb-Bold.eot") format("eot"), url("/assets/ScalaWeb-Bold.woff") format("woff"); }
-
-@font-face {
   font-family: 'ScalaSans';
   src: url("/assets/ScalaSansWebPro.eot") format("eot"), url("/assets/ScalaSansWebPro.woff") format("woff"); }
 
@@ -24,7 +12,7 @@
 html,
 body {
   height: 100%;
-  font-family: 'ScalaSans', Helvetica Neue, Helvetica, sans-serif;
+  font-family: 'ScalaSans';
   margin: 0;
   padding: 0; }
 
@@ -32,44 +20,32 @@ body {
   height: 100%;
   background: white; }
 
-h1, h2, h3 {
-  margin: 0;
-  font-family: 'ScalaSans', Helvetica Neue, Helvetica, sans-serif;
-  font-weight: 600;
-  font-size: 1rem;
+h1 {
+  margin: 0 0 3em 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1;
   color: rgba(0, 0, 0, 0.8); }
 
 p {
-  margin: 0 0 2em 0;
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1.5;
-  color: rgba(0, 0, 0, 0.8); }
+  max-width: 30em;
+  margin: 0 0 1.5em 0;
+  font-size: 1.1rem;
+  line-height: 1.75;
+  color: rgba(0, 0, 0, 0.7); }
 
 a {
   color: rgba(0, 0, 0, 0.8);
   text-decoration: none;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.8); }
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  transition: all 200ms ease; }
+  a:hover {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8); }
 
 .wrapper {
   height: 100vh;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap; }
-
-.block {
-  width: 50%;
-  height: 50%;
-  padding: 2em; }
-
-.mugshot {
-  background: rgba(0, 0, 0, 0.08); }
-
-.name {
-  background: rgba(0, 0, 0, 0.1); }
-
-.intro {
-  background: rgba(0, 0, 0, 0.12); }
-
-.role {
-  background: rgba(0, 0, 0, 0.14); }
+  border: 3em solid white; }
+  .wrapper .container {
+    height: 100%;
+    padding: 5em;
+    background: rgba(0, 0, 0, 0.05); }
