@@ -1,12 +1,20 @@
-@font-face {
+/* @font-face {
   font-family: 'ScalaSans';
-  src:  url('/assets/ScalaSansWebPro.eot') format('eot'),
-        url('/assets/ScalaSansWebPro.woff') format('woff');
-}
+  src:  url("/assets/ScalaSansWebPro.eot") format("eot"),
+        url("/assets/ScalaSansWebPro.woff") format("woff");
+  } */
+
+@font-face {
+  font-family: 'soehne';
+  src:  url("/assets/soehne-mono-test-buch.woff") format("woff");
+  }
+
+@font-face {
+  font-family: 'soehne-medium';
+  src:  url("/assets/soehne-mono-test-kraftig.woff") format("woff");
+  }
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -15,20 +23,20 @@
 html,
 body {
   height: 100%;
-  font-family: 'ScalaSans';
+  font-family: 'soehne';
   margin: 0;
   padding: 0;
 }
 
 body {
   height: 100%;
-  background: rgba(255, 255, 255, 1.0);
+  background: rgba(0, 0, 0, 0.025);
 }
 
 h1 {
   margin: 0 0 3em 0;
-  font-size: 1.1rem;
-  font-weight: 400;
+  font-family: 'soehne-medium';
+  font-size: .9rem;
   line-height: 1;
   color: rgba(0, 0, 0, 0.80);
 }
@@ -36,7 +44,7 @@ h1 {
 p {
   max-width: 30em;
   margin: 0 0 1.5em 0;
-  font-size: 1.1rem;
+  font-size: .9rem;
   line-height: 1.75;
   color: rgba(0, 0, 0, 0.70);
 }
@@ -53,10 +61,8 @@ a {
 
 .wrapper {
   height: 100vh;
-  border: 3em solid rgba(255, 255, 255, 1.0);
   .container {
     height: 100%;
     padding: 5em;
-    background: rgba(0, 0, 0, 0.05);
   }
 }
