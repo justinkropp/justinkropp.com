@@ -4,16 +4,6 @@
         url("/assets/ScalaSansWebPro.woff") format("woff");
   } */
 
-@font-face {
-  font-family: 'soehne';
-  src:  url("/assets/soehne-mono-test-buch.woff") format("woff");
-  }
-
-@font-face {
-  font-family: 'soehne-medium';
-  src:  url("/assets/soehne-mono-test-kraftig.woff") format("woff");
-  }
-
 * {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
@@ -23,7 +13,7 @@
 html,
 body {
   height: 100%;
-  font-family: 'soehne';
+  font-family: 'Helvetica';
   margin: 0;
   padding: 0;
 }
@@ -35,8 +25,8 @@ body {
 
 h1 {
   margin: 0 0 3em 0;
-  font-family: 'soehne-medium';
-  font-size: .9rem;
+  font-family: 'Helvetica';
+  font-size: 1rem;
   line-height: 1;
   color: rgba(0, 0, 0, 0.80);
 }
@@ -44,7 +34,7 @@ h1 {
 p {
   max-width: 30em;
   margin: 0 0 1.5em 0;
-  font-size: .9rem;
+  font-size: 1rem;
   line-height: 1.75;
   color: rgba(0, 0, 0, 0.70);
 }
