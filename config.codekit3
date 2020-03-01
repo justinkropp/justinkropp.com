@@ -9,22 +9,6 @@
 	],
 "creatorBuild": "31934",
 "files": {
-	"/assets/soehne-mono-test-buch.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/soehne-mono-test-buch.woff",
-		"oF": 0
-		},
-	"/assets/soehne-mono-test-kraftig.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/soehne-mono-test-kraftig.woff",
-		"oF": 0
-		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,

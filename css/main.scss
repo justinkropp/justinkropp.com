@@ -1,8 +1,4 @@
-/* @font-face {
-  font-family: 'ScalaSans';
-  src:  url("/assets/ScalaSansWebPro.eot") format("eot"),
-        url("/assets/ScalaSansWebPro.woff") format("woff");
-  } */
+
 
 * {
   box-sizing: border-box;
@@ -20,27 +16,22 @@ body {
 
 body {
   height: 100%;
-  background: rgba(0, 0, 0, 0.025);
+  background: rgba(0, 0, 0, 0);
 }
 
-h1 {
-  margin: 0 0 3em 0;
-  font-family: 'Helvetica';
-  font-size: 1rem;
-  line-height: 1;
-  color: rgba(0, 0, 0, 0.80);
-}
-
-p {
-  max-width: 30em;
+h1, p {
   margin: 0 0 1.5em 0;
-  font-size: 1rem;
-  line-height: 1.75;
-  color: rgba(0, 0, 0, 0.70);
+  font-family: 'Helvetica';
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.7);
+}
+p:last-child {
+  margin: 0;
 }
 
 a {
-  color: rgba(0, 0, 0, 0.80);
+  color: rgba(0, 0, 0, 0.7);
   text-decoration: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0.20);
   transition: all 200ms ease;
@@ -50,9 +41,13 @@ a {
 }
 
 .wrapper {
-  height: 100vh;
+  height: 100%;
   .container {
+    display: flex;
     height: 100%;
-    padding: 5em;
+    .content {
+      width: 40em;
+      margin: auto;
+    }
   }
 }
