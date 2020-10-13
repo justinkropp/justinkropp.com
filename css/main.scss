@@ -1,7 +1,22 @@
+// font
+@font-face {
+  font-family: "Scala";
+  src: url("/assets/ScalaWeb.woff") format("woff"),
+       url("/assets/ScalaWeb.eot") format("eot");
+}
+
+@font-face {
+  font-family: "Scala Sans";
+  src: url("/assets/ScalaSansWebPro.woff") format("woff"),
+       url("/assets/ScalaSansWebPro.eot") format("eot");
+}
+
 
 
 // Variables
 $black: rgba(0, 0, 0, 0.99);
+$white: rgba(255, 255, 255, 0.99);
+$burgandy-dk: rgba(42, 37, 37, 1.0);
 
 
 * {
@@ -13,85 +28,102 @@ $black: rgba(0, 0, 0, 0.99);
 html,
 body {
   height: 100%;
-  font-family: "Helvetica Neue",sans-serif;
-  font-weight: 500;
   margin: 0;
   padding: 0;
+  font-family:"Scala", serif;
 }
 
 body {
   height: 100%;
-  background: rgba(0, 0, 0, 0);
+  background: $burgandy-dk;
 }
 
-h1, p {
-  margin: 0;
-  font-size: 1.15rem;
-  font-weight: 500;
+p, li {
+  font-size: 1.25rem;
   line-height: 1.5;
-  color: rgba($black, 0.60);
+  color: rgba($white, 0.85);
 }
-p:last-child {
-  margin: 0;
+
+strong {
+  font-family:"Scala Bold", serif;
+  font-weight: normal;
 }
+
 
 ul {
+  padding: 0;
   list-style: none;
-  margin: 0;
-  line-height: 2;
 }
 
+
 a {
-  color: rgba($black, 0.60);
+  color: rgba($white, 0.85);
   text-decoration: none;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.20);
-  transition: all 200ms ease;
-  &:hover {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.80);
-  }
 }
+
+// Page Composition
 
 .wrapper {
   width: 100%;
-  height: 100%;
+  min-height: 100vh;
+  padding: 2em;
   .container {
     width: 100%;
-    height: 100%;
+    min-height: calc(100vh - 4em);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+// Header
+
+header[role=banner],
+footer[role=footer] {
+  // border: 1px dashed rgba($white, 0.10);
+  ul {
     display: flex;
     flex-direction: row;
-    .name {
-      display: flex;
-      width: 50%;
-      padding: 5em;
-      background: rgba($black, 0.10);
-      h1 {
-        margin: auto;
+    justify-content: center;
+    margin: 0;
+    li {
+      margin: 0 1em;
+      font-family: "Scala Sans", sans-serif;
+      font-size: 1.1rem;
+      text-align: center;
+      a {
+        color: rgba($white, 0.5);
       }
     }
-    .content {
-      width: 50%;
-      display: flex;
-      flex-direction: column;
-      align-content: stretch;
-      .bio {
-        display: flex;
-        height: 60%;
-        padding: 5em;
-        background: rgba($black, 0.15);
-        p {
-          margin: auto;
-        }
-      }
-      .contact {
-        display: flex;
-        height: 40%;
-        padding: 5em;
-        background: rgba($black, 0.20);
-        ul {
-          margin: auto;
-          padding: 0;
-        }
-      }
-    }
+  }
+}
+
+header[role=banner] {
+  margin: 0 0 6em 0;
+}
+
+footer[role=footer] {
+  margin: 6em 0 0 0;
+}
+
+
+// Main
+
+main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: inherit;
+  // border: 1px dashed rgba($white, 0.10);
+}
+
+// Home Page
+
+section.introduction {
+  max-width: 40em;
+  margin: auto;
+  p {
+    font-size: 1.5rem;
+    text-align: center;
   }
 }
