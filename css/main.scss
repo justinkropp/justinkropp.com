@@ -1,22 +1,6 @@
-// font
-@font-face {
-  font-family: "Scala";
-  src: url("/assets/ScalaWeb.woff") format("woff"),
-       url("/assets/ScalaWeb.eot") format("eot");
-}
-
-@font-face {
-  font-family: "Scala Sans";
-  src: url("/assets/ScalaSansWebPro.woff") format("woff"),
-       url("/assets/ScalaSansWebPro.eot") format("eot");
-}
-
-
-
 // Variables
 $black: rgba(0, 0, 0, 0.99);
 $white: rgba(255, 255, 255, 0.99);
-$burgandy-dk: rgba(42, 37, 37, 1.0);
 
 
 * {
@@ -35,95 +19,5 @@ body {
 
 body {
   height: 100%;
-  background: $burgandy-dk;
-}
-
-p, li {
-  font-size: 1.25rem;
-  line-height: 1.5;
-  color: rgba($white, 0.85);
-}
-
-strong {
-  font-family:"Scala Bold", serif;
-  font-weight: normal;
-}
-
-
-ul {
-  padding: 0;
-  list-style: none;
-}
-
-
-a {
-  color: rgba($white, 0.85);
-  text-decoration: none;
-}
-
-// Page Composition
-
-.wrapper {
-  width: 100%;
-  min-height: 100vh;
-  padding: 2em;
-  .container {
-    width: 100%;
-    min-height: calc(100vh - 4em);
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-}
-
-// Header
-
-header[role=banner],
-footer[role=footer] {
-  // border: 1px dashed rgba($white, 0.10);
-  ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin: 0;
-    li {
-      margin: 0 1em;
-      font-family: "Scala Sans", sans-serif;
-      font-size: 1.1rem;
-      text-align: center;
-      a {
-        color: rgba($white, 0.5);
-      }
-    }
-  }
-}
-
-header[role=banner] {
-  margin: 0 0 6em 0;
-}
-
-footer[role=footer] {
-  margin: 6em 0 0 0;
-}
-
-
-// Main
-
-main {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: inherit;
-  // border: 1px dashed rgba($white, 0.10);
-}
-
-// Home Page
-
-section.introduction {
-  max-width: 40em;
-  margin: auto;
-  p {
-    font-size: 1.5rem;
-    text-align: center;
-  }
+  background: $white;
 }
