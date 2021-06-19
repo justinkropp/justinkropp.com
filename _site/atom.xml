@@ -4,7 +4,7 @@
  <title>Justin Kropp</title>
  <link href="/atom.xml" rel="self"/>
  <link href="https://justinkropp.com/"/>
- <updated>2021-06-08T14:32:47-04:00</updated>
+ <updated>2021-06-19T14:53:53-04:00</updated>
  <id>https://justinkropp.com</id>
  <author>
    <name>Justin Kropp</name>
@@ -23,7 +23,7 @@
 
 &lt;p&gt;Poole is the butler for &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the static site generator. It’s designed and developed by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt; to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.&lt;/p&gt;
 
-&lt;p&gt;This demo site was last updated June 08, 2021.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated June 19, 2021.&lt;/p&gt;
 
 &lt;p&gt;There are currently two themes built on Poole:&lt;/p&gt;
 

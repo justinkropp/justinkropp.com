@@ -22,9 +22,10 @@ body {
   width: 100%;
   height: 100vh;
   margin: 0;
-  font-family: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+  font-family: Helvetica, -apple-system,BlinkMacSystemFont,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  background: $black;
 }
 
 // No `:visited` state is required by default (browsers will use `a`)
@@ -95,7 +96,7 @@ mark {
 
 body {
   height: 100%;
-  background: #3D2D2D;
+  background: $black;
 }
 
 a {
@@ -115,15 +116,15 @@ main {
   flex-direction: column;
   align-content: flex-end;
   justify-content: flex-end;
-  padding: 3.2em;
+  padding: 5em;
   section {
-    max-width: 48em;
+    max-width: 25em;
     article {
       p {
         margin-top: 0;
-        font-size: 2.4rem;
+        font-size: 1.24rem;
         line-height: 1.35;
-        font-weight: 600;
+        font-weight: 500;
         color: rgba($white, 0.80);
         &:last-child {
           margin: 0;

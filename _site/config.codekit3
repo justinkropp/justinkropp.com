@@ -9,20 +9,6 @@
 	],
 "creatorBuild": "32147",
 "files": {
-	"/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.gitignore",
-		"oF": 0
-		},
-	"/.jekyll-cache/Jekyll/Cache": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "/build/.jekyll-cache/Jekyll/Cache",
-		"oF": 0
-		},
 	"/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -69,6 +55,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_layouts/default.html",
+		"oF": 0
+		},
+	"/_layouts/home.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_layouts/home.html",
 		"oF": 0
 		},
 	"/_layouts/page.html": {
@@ -362,39 +356,12 @@
 		"oAP": "/_site/archive/index.html",
 		"oF": 0
 		},
-	"/_site/assets/apple-touch-icon-precomposed.png": {
-		"ft": 32768,
-		"iS": 1430,
-		"oA": 0,
-		"oAP": "/_site/assets/apple-touch-icon-precomposed.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/_site/assets/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/assets/favicon.ico",
-		"oF": 0
-		},
 	"/_site/atom.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/atom.xml",
-		"oF": 0
-		},
-	"/_site/CNAME": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/CNAME",
 		"oF": 0
 		},
 	"/_site/index.html": {
@@ -427,14 +394,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/page4/index.html",
-		"oF": 0
-		},
-	"/_site/poole-for-jekyll.gemspec": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/poole-for-jekyll.gemspec",
 		"oF": 0
 		},
 	"/_site/styles.css": {
